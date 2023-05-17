@@ -2,7 +2,6 @@
   {
     "Country": "Afghanistan",
     "Year": 2018,
-    "Count": "7200[4100â€“11000]",
     "Count_median": 7200,
     "Count_min": 4100,
     "Count_max": 11000,
@@ -11,7 +10,6 @@
   {
     "Country": "Albania",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -20,7 +18,6 @@
   {
     "Country": "Algeria",
     "Year": 2018,
-    "Count": "16000[15000â€“17000]",
     "Count_median": 16000,
     "Count_min": 15000,
     "Count_max": 17000,
@@ -29,7 +26,6 @@
   {
     "Country": "Angola",
     "Year": 2018,
-    "Count": "330000[290000â€“390000]",
     "Count_median": 330000,
     "Count_min": 290000,
     "Count_max": 390000,
@@ -38,7 +34,6 @@
   {
     "Country": "Argentina",
     "Year": 2018,
-    "Count": "140000[130000â€“150000]",
     "Count_median": 140000,
     "Count_min": 130000,
     "Count_max": 150000,
@@ -47,7 +42,6 @@
   {
     "Country": "Armenia",
     "Year": 2018,
-    "Count": "3500[3000â€“4400]",
     "Count_median": 3500,
     "Count_min": 3000,
     "Count_max": 4400,
@@ -56,7 +50,6 @@
   {
     "Country": "Australia",
     "Year": 2018,
-    "Count": "28000[23000â€“31000]",
     "Count_median": 28000,
     "Count_min": 23000,
     "Count_max": 31000,
@@ -65,7 +58,6 @@
   {
     "Country": "Austria",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -74,7 +66,6 @@
   {
     "Country": "Azerbaijan",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -83,7 +74,6 @@
   {
     "Country": "Bahamas",
     "Year": 2018,
-    "Count": "6000[5300â€“6700]",
     "Count_median": 6000,
     "Count_min": 5300,
     "Count_max": 6700,
@@ -92,7 +82,6 @@
   {
     "Country": "Bahrain",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -101,7 +90,6 @@
   {
     "Country": "Bangladesh",
     "Year": 2018,
-    "Count": "14000[12000â€“16000]",
     "Count_median": 14000,
     "Count_min": 12000,
     "Count_max": 16000,
@@ -110,7 +98,6 @@
   {
     "Country": "Barbados",
     "Year": 2018,
-    "Count": "3000[2700â€“3400]",
     "Count_median": 3000,
     "Count_min": 2700,
     "Count_max": 3400,
@@ -119,7 +106,6 @@
   {
     "Country": "Belarus",
     "Year": 2018,
-    "Count": "27000[22000â€“34000]",
     "Count_median": 27000,
     "Count_min": 22000,
     "Count_max": 34000,
@@ -128,7 +114,6 @@
   {
     "Country": "Belgium",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -137,7 +122,6 @@
   {
     "Country": "Belize",
     "Year": 2018,
-    "Count": "4900[4400â€“5400]",
     "Count_median": 4900,
     "Count_min": 4400,
     "Count_max": 5400,
@@ -146,7 +130,6 @@
   {
     "Country": "Benin",
     "Year": 2018,
-    "Count": "73000[48000â€“120000]",
     "Count_median": 73000,
     "Count_min": 48000,
     "Count_max": 120000,
@@ -155,7 +138,6 @@
   {
     "Country": "Bhutan",
     "Year": 2018,
-    "Count": "1300[700â€“2700]",
     "Count_median": 1300,
     "Count_min": 700,
     "Count_max": 2700,
@@ -164,7 +146,6 @@
   {
     "Country": "Bolivia (Plurinational State of)",
     "Year": 2018,
-    "Count": "22000[20000â€“24000]",
     "Count_median": 22000,
     "Count_min": 20000,
     "Count_max": 24000,
@@ -173,7 +154,6 @@
   {
     "Country": "Bosnia and Herzegovina",
     "Year": 2018,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -182,7 +162,6 @@
   {
     "Country": "Botswana",
     "Year": 2018,
-    "Count": "370000[330000â€“400000]",
     "Count_median": 370000,
     "Count_min": 330000,
     "Count_max": 400000,
@@ -191,7 +170,6 @@
   {
     "Country": "Brazil",
     "Year": 2018,
-    "Count": "900000[690000â€“1100000]",
     "Count_median": 900000,
     "Count_min": 690000,
     "Count_max": 1100000,
@@ -200,7 +178,6 @@
   {
     "Country": "Brunei Darussalam",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -209,7 +186,6 @@
   {
     "Country": "Bulgaria",
     "Year": 2018,
-    "Count": "3500[3000â€“4100]",
     "Count_median": 3500,
     "Count_min": 3000,
     "Count_max": 4100,
@@ -218,7 +194,6 @@
   {
     "Country": "Burkina Faso",
     "Year": 2018,
-    "Count": "96000[78000â€“120000]",
     "Count_median": 96000,
     "Count_min": 78000,
     "Count_max": 120000,
@@ -227,7 +202,6 @@
   {
     "Country": "Burundi",
     "Year": 2018,
-    "Count": "82000[71000â€“97000]",
     "Count_median": 82000,
     "Count_min": 71000,
     "Count_max": 97000,
@@ -236,7 +210,6 @@
   {
     "Country": "Cabo Verde",
     "Year": 2018,
-    "Count": "2400[2100â€“2900]",
     "Count_median": 2400,
     "Count_min": 2100,
     "Count_max": 2900,
@@ -245,7 +218,6 @@
   {
     "Country": "Cambodia",
     "Year": 2018,
-    "Count": "73000[64000â€“84000]",
     "Count_median": 73000,
     "Count_min": 64000,
     "Count_max": 84000,
@@ -254,7 +226,6 @@
   {
     "Country": "Cameroon",
     "Year": 2018,
-    "Count": "540000[470000â€“590000]",
     "Count_median": 540000,
     "Count_min": 470000,
     "Count_max": 590000,
@@ -263,7 +234,6 @@
   {
     "Country": "Canada",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -272,7 +242,6 @@
   {
     "Country": "Central African Republic",
     "Year": 2018,
-    "Count": "110000[90000â€“140000]",
     "Count_median": 110000,
     "Count_min": 90000,
     "Count_max": 140000,
@@ -281,7 +250,6 @@
   {
     "Country": "Chad",
     "Year": 2018,
-    "Count": "120000[94000â€“150000]",
     "Count_median": 120000,
     "Count_min": 94000,
     "Count_max": 150000,
@@ -290,7 +258,6 @@
   {
     "Country": "Chile",
     "Year": 2018,
-    "Count": "71000[63000â€“78000]",
     "Count_median": 71000,
     "Count_min": 63000,
     "Count_max": 78000,
@@ -299,7 +266,6 @@
   {
     "Country": "China",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -308,7 +274,6 @@
   {
     "Country": "Colombia",
     "Year": 2018,
-    "Count": "160000[130000â€“180000]",
     "Count_median": 160000,
     "Count_min": 130000,
     "Count_max": 180000,
@@ -317,7 +282,6 @@
   {
     "Country": "Comoros",
     "Year": 2018,
-    "Count": "200[100â€“500]",
     "Count_median": 200,
     "Count_min": 100,
     "Count_max": 500,
@@ -326,7 +290,6 @@
   {
     "Country": "Congo",
     "Year": 2018,
-    "Count": "89000[69000â€“120000]",
     "Count_median": 89000,
     "Count_min": 69000,
     "Count_max": 120000,
@@ -335,7 +298,6 @@
   {
     "Country": "Costa Rica",
     "Year": 2018,
-    "Count": "15000[13000â€“17000]",
     "Count_median": 15000,
     "Count_min": 13000,
     "Count_max": 17000,
@@ -344,7 +306,6 @@
   {
     "Country": "CÃ´te d'Ivoire",
     "Year": 2018,
-    "Count": "460000[360000â€“580000]",
     "Count_median": 460000,
     "Count_min": 360000,
     "Count_max": 580000,
@@ -353,7 +314,6 @@
   {
     "Country": "Croatia",
     "Year": 2018,
-    "Count": "1600[1400â€“1700]",
     "Count_median": 1600,
     "Count_min": 1400,
     "Count_max": 1700,
@@ -362,7 +322,6 @@
   {
     "Country": "Cuba",
     "Year": 2018,
-    "Count": "31000[24000â€“37000]",
     "Count_median": 31000,
     "Count_min": 24000,
     "Count_max": 37000,
@@ -371,7 +330,6 @@
   {
     "Country": "Cyprus",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -380,7 +338,6 @@
   {
     "Country": "Czechia",
     "Year": 2018,
-    "Count": "4400[3700â€“5000]",
     "Count_median": 4400,
     "Count_min": 3700,
     "Count_max": 5000,
@@ -389,7 +346,6 @@
   {
     "Country": "Democratic People's Republic of Korea",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -398,7 +354,6 @@
   {
     "Country": "Democratic Republic of the Congo",
     "Year": 2018,
-    "Count": "450000[370000â€“530000]",
     "Count_median": 450000,
     "Count_min": 370000,
     "Count_max": 530000,
@@ -407,7 +362,6 @@
   {
     "Country": "Denmark",
     "Year": 2018,
-    "Count": "6200[5600â€“7000]",
     "Count_median": 6200,
     "Count_min": 5600,
     "Count_max": 7000,
@@ -416,7 +370,6 @@
   {
     "Country": "Djibouti",
     "Year": 2018,
-    "Count": "8800[7100â€“11000]",
     "Count_median": 8800,
     "Count_min": 7100,
     "Count_max": 11000,
@@ -425,7 +378,6 @@
   {
     "Country": "Dominican Republic",
     "Year": 2018,
-    "Count": "70000[54000â€“92000]",
     "Count_median": 70000,
     "Count_min": 54000,
     "Count_max": 92000,
@@ -434,7 +386,6 @@
   {
     "Country": "Ecuador",
     "Year": 2018,
-    "Count": "44000[29000â€“71000]",
     "Count_median": 44000,
     "Count_min": 29000,
     "Count_max": 71000,
@@ -443,7 +394,6 @@
   {
     "Country": "Egypt",
     "Year": 2018,
-    "Count": "22000[20000â€“24000]",
     "Count_median": 22000,
     "Count_min": 20000,
     "Count_max": 24000,
@@ -452,7 +402,6 @@
   {
     "Country": "El Salvador",
     "Year": 2018,
-    "Count": "25000[21000â€“30000]",
     "Count_median": 25000,
     "Count_min": 21000,
     "Count_max": 30000,
@@ -461,7 +410,6 @@
   {
     "Country": "Equatorial Guinea",
     "Year": 2018,
-    "Count": "62000[50000â€“81000]",
     "Count_median": 62000,
     "Count_min": 50000,
     "Count_max": 81000,
@@ -470,7 +418,6 @@
   {
     "Country": "Eritrea",
     "Year": 2018,
-    "Count": "18000[13000â€“24000]",
     "Count_median": 18000,
     "Count_min": 13000,
     "Count_max": 24000,
@@ -479,7 +426,6 @@
   {
     "Country": "Estonia",
     "Year": 2018,
-    "Count": "7400[6600â€“8200]",
     "Count_median": 7400,
     "Count_min": 6600,
     "Count_max": 8200,
@@ -488,7 +434,6 @@
   {
     "Country": "Eswatini",
     "Year": 2018,
-    "Count": "210000[190000â€“220000]",
     "Count_median": 210000,
     "Count_min": 190000,
     "Count_max": 220000,
@@ -497,7 +442,6 @@
   {
     "Country": "Ethiopia",
     "Year": 2018,
-    "Count": "690000[530000â€“900000]",
     "Count_median": 690000,
     "Count_min": 530000,
     "Count_max": 900000,
@@ -506,7 +450,6 @@
   {
     "Country": "Fiji",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -515,7 +458,6 @@
   {
     "Country": "Finland",
     "Year": 2018,
-    "Count": "4000[3100â€“4900]",
     "Count_median": 4000,
     "Count_min": 3100,
     "Count_max": 4900,
@@ -524,7 +466,6 @@
   {
     "Country": "France",
     "Year": 2018,
-    "Count": "180000[150000â€“210000]",
     "Count_median": 180000,
     "Count_min": 150000,
     "Count_max": 210000,
@@ -533,7 +474,6 @@
   {
     "Country": "Gabon",
     "Year": 2018,
-    "Count": "53000[43000â€“67000]",
     "Count_median": 53000,
     "Count_min": 43000,
     "Count_max": 67000,
@@ -542,7 +482,6 @@
   {
     "Country": "Gambia",
     "Year": 2018,
-    "Count": "26000[21000â€“33000]",
     "Count_median": 26000,
     "Count_min": 21000,
     "Count_max": 33000,
@@ -551,7 +490,6 @@
   {
     "Country": "Georgia",
     "Year": 2018,
-    "Count": "9400[8100â€“11000]",
     "Count_median": 9400,
     "Count_min": 8100,
     "Count_max": 11000,
@@ -560,7 +498,6 @@
   {
     "Country": "Germany",
     "Year": 2018,
-    "Count": "87000[71000â€“100000]",
     "Count_median": 87000,
     "Count_min": 71000,
     "Count_max": 100000,
@@ -569,7 +506,6 @@
   {
     "Country": "Ghana",
     "Year": 2018,
-    "Count": "330000[280000â€“390000]",
     "Count_median": 330000,
     "Count_min": 280000,
     "Count_max": 390000,
@@ -578,7 +514,6 @@
   {
     "Country": "Greece",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -587,7 +522,6 @@
   {
     "Country": "Guatemala",
     "Year": 2018,
-    "Count": "47000[43000â€“51000]",
     "Count_median": 47000,
     "Count_min": 43000,
     "Count_max": 51000,
@@ -596,7 +530,6 @@
   {
     "Country": "Guinea",
     "Year": 2018,
-    "Count": "120000[100000â€“140000]",
     "Count_median": 120000,
     "Count_min": 100000,
     "Count_max": 140000,
@@ -605,7 +538,6 @@
   {
     "Country": "Guinea-Bissau",
     "Year": 2018,
-    "Count": "44000[39000â€“49000]",
     "Count_median": 44000,
     "Count_min": 39000,
     "Count_max": 49000,
@@ -614,7 +546,6 @@
   {
     "Country": "Guyana",
     "Year": 2018,
-    "Count": "8200[7200â€“9400]",
     "Count_median": 8200,
     "Count_min": 7200,
     "Count_max": 9400,
@@ -623,7 +554,6 @@
   {
     "Country": "Haiti",
     "Year": 2018,
-    "Count": "160000[140000â€“180000]",
     "Count_median": 160000,
     "Count_min": 140000,
     "Count_max": 180000,
@@ -632,7 +562,6 @@
   {
     "Country": "Honduras",
     "Year": 2018,
-    "Count": "23000[18000â€“28000]",
     "Count_median": 23000,
     "Count_min": 18000,
     "Count_max": 28000,
@@ -641,7 +570,6 @@
   {
     "Country": "Hungary",
     "Year": 2018,
-    "Count": "3700[3200â€“4200]",
     "Count_median": 3700,
     "Count_min": 3200,
     "Count_max": 4200,
@@ -650,7 +578,6 @@
   {
     "Country": "Iceland",
     "Year": 2018,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -659,7 +586,6 @@
   {
     "Country": "India",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -668,7 +594,6 @@
   {
     "Country": "Indonesia",
     "Year": 2018,
-    "Count": "640000[550000â€“750000]",
     "Count_median": 640000,
     "Count_min": 550000,
     "Count_max": 750000,
@@ -677,7 +602,6 @@
   {
     "Country": "Iran (Islamic Republic of)",
     "Year": 2018,
-    "Count": "61000[34000â€“120000]",
     "Count_median": 61000,
     "Count_min": 34000,
     "Count_max": 120000,
@@ -686,7 +610,6 @@
   {
     "Country": "Ireland",
     "Year": 2018,
-    "Count": "7200[6200â€“8000]",
     "Count_median": 7200,
     "Count_min": 6200,
     "Count_max": 8000,
@@ -695,7 +618,6 @@
   {
     "Country": "Israel",
     "Year": 2018,
-    "Count": "9000[8000â€“10000]",
     "Count_median": 9000,
     "Count_min": 8000,
     "Count_max": 10000,
@@ -704,7 +626,6 @@
   {
     "Country": "Italy",
     "Year": 2018,
-    "Count": "130000[110000â€“140000]",
     "Count_median": 130000,
     "Count_min": 110000,
     "Count_max": 140000,
@@ -713,7 +634,6 @@
   {
     "Country": "Jamaica",
     "Year": 2018,
-    "Count": "40000[35000â€“46000]",
     "Count_median": 40000,
     "Count_min": 35000,
     "Count_max": 46000,
@@ -722,7 +642,6 @@
   {
     "Country": "Japan",
     "Year": 2018,
-    "Count": "30000[25000â€“34000]",
     "Count_median": 30000,
     "Count_min": 25000,
     "Count_max": 34000,
@@ -731,7 +650,6 @@
   {
     "Country": "Jordan",
     "Year": 2018,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -740,7 +658,6 @@
   {
     "Country": "Kazakhstan",
     "Year": 2018,
-    "Count": "26000[24000â€“27000]",
     "Count_median": 26000,
     "Count_min": 24000,
     "Count_max": 27000,
@@ -749,7 +666,6 @@
   {
     "Country": "Kenya",
     "Year": 2018,
-    "Count": "1600000[1300000â€“1900000]",
     "Count_median": 1600000,
     "Count_min": 1300000,
     "Count_max": 1900000,
@@ -758,7 +674,6 @@
   {
     "Country": "Kuwait",
     "Year": 2018,
-    "Count": "640[580â€“700]",
     "Count_median": 640,
     "Count_min": 580,
     "Count_max": 700,
@@ -767,7 +682,6 @@
   {
     "Country": "Kyrgyzstan",
     "Year": 2018,
-    "Count": "8500[6500â€“12000]",
     "Count_median": 8500,
     "Count_min": 6500,
     "Count_max": 12000,
@@ -776,7 +690,6 @@
   {
     "Country": "Lao People's Democratic Republic",
     "Year": 2018,
-    "Count": "12000[11000â€“14000]",
     "Count_median": 12000,
     "Count_min": 11000,
     "Count_max": 14000,
@@ -785,7 +698,6 @@
   {
     "Country": "Latvia",
     "Year": 2018,
-    "Count": "5300[4800â€“5900]",
     "Count_median": 5300,
     "Count_min": 4800,
     "Count_max": 5900,
@@ -794,7 +706,6 @@
   {
     "Country": "Lebanon",
     "Year": 2018,
-    "Count": "2500[2200â€“2800]",
     "Count_median": 2500,
     "Count_min": 2200,
     "Count_max": 2800,
@@ -803,7 +714,6 @@
   {
     "Country": "Lesotho",
     "Year": 2018,
-    "Count": "340000[320000â€“360000]",
     "Count_median": 340000,
     "Count_min": 320000,
     "Count_max": 360000,
@@ -812,7 +722,6 @@
   {
     "Country": "Liberia",
     "Year": 2018,
-    "Count": "39000[36000â€“44000]",
     "Count_median": 39000,
     "Count_min": 36000,
     "Count_max": 44000,
@@ -821,7 +730,6 @@
   {
     "Country": "Libya",
     "Year": 2018,
-    "Count": "9200[8300â€“10000]",
     "Count_median": 9200,
     "Count_min": 8300,
     "Count_max": 10000,
@@ -830,7 +738,6 @@
   {
     "Country": "Lithuania",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -839,7 +746,6 @@
   {
     "Country": "Luxembourg",
     "Year": 2018,
-    "Count": "1200[1000â€“1300]",
     "Count_median": 1200,
     "Count_min": 1000,
     "Count_max": 1300,
@@ -848,7 +754,6 @@
   {
     "Country": "Madagascar",
     "Year": 2018,
-    "Count": "39000[30000â€“55000]",
     "Count_median": 39000,
     "Count_min": 30000,
     "Count_max": 55000,
@@ -857,7 +762,6 @@
   {
     "Country": "Malawi",
     "Year": 2018,
-    "Count": "1000000[940000â€“1100000]",
     "Count_median": 1000000,
     "Count_min": 940000,
     "Count_max": 1100000,
@@ -866,7 +770,6 @@
   {
     "Country": "Malaysia",
     "Year": 2018,
-    "Count": "87000[77000â€“98000]",
     "Count_median": 87000,
     "Count_min": 77000,
     "Count_max": 98000,
@@ -875,7 +778,6 @@
   {
     "Country": "Maldives",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -884,7 +786,6 @@
   {
     "Country": "Mali",
     "Year": 2018,
-    "Count": "150000[120000â€“190000]",
     "Count_median": 150000,
     "Count_min": 120000,
     "Count_max": 190000,
@@ -893,7 +794,6 @@
   {
     "Country": "Malta",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -902,7 +802,6 @@
   {
     "Country": "Mauritania",
     "Year": 2018,
-    "Count": "5600[4500â€“7200]",
     "Count_median": 5600,
     "Count_min": 4500,
     "Count_max": 7200,
@@ -911,7 +810,6 @@
   {
     "Country": "Mauritius",
     "Year": 2018,
-    "Count": "13000[10000â€“15000]",
     "Count_median": 13000,
     "Count_min": 10000,
     "Count_max": 15000,
@@ -920,7 +818,6 @@
   {
     "Country": "Mexico",
     "Year": 2018,
-    "Count": "230000[200000â€“270000]",
     "Count_median": 230000,
     "Count_min": 200000,
     "Count_max": 270000,
@@ -929,7 +826,6 @@
   {
     "Country": "Mongolia",
     "Year": 2018,
-    "Count": "600[530â€“670]",
     "Count_median": 600,
     "Count_min": 530,
     "Count_max": 670,
@@ -938,7 +834,6 @@
   {
     "Country": "Montenegro",
     "Year": 2018,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -947,7 +842,6 @@
   {
     "Country": "Morocco",
     "Year": 2018,
-    "Count": "21000[17000â€“28000]",
     "Count_median": 21000,
     "Count_min": 17000,
     "Count_max": 28000,
@@ -956,7 +850,6 @@
   {
     "Country": "Mozambique",
     "Year": 2018,
-    "Count": "2200000[1700000â€“2700000]",
     "Count_median": 2200000,
     "Count_min": 1700000,
     "Count_max": 2700000,
@@ -965,7 +858,6 @@
   {
     "Country": "Myanmar",
     "Year": 2018,
-    "Count": "240000[210000â€“270000]",
     "Count_median": 240000,
     "Count_min": 210000,
     "Count_max": 270000,
@@ -974,7 +866,6 @@
   {
     "Country": "Namibia",
     "Year": 2018,
-    "Count": "200000[190000â€“220000]",
     "Count_median": 200000,
     "Count_min": 190000,
     "Count_max": 220000,
@@ -983,7 +874,6 @@
   {
     "Country": "Nepal",
     "Year": 2018,
-    "Count": "30000[26000â€“34000]",
     "Count_median": 30000,
     "Count_min": 26000,
     "Count_max": 34000,
@@ -992,7 +882,6 @@
   {
     "Country": "Netherlands",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1001,7 +890,6 @@
   {
     "Country": "New Zealand",
     "Year": 2018,
-    "Count": "3600[3100â€“4200]",
     "Count_median": 3600,
     "Count_min": 3100,
     "Count_max": 4200,
@@ -1010,7 +898,6 @@
   {
     "Country": "Nicaragua",
     "Year": 2018,
-    "Count": "9400[7600â€“12000]",
     "Count_median": 9400,
     "Count_min": 7600,
     "Count_max": 12000,
@@ -1019,7 +906,6 @@
   {
     "Country": "Niger",
     "Year": 2018,
-    "Count": "36000[30000â€“43000]",
     "Count_median": 36000,
     "Count_min": 30000,
     "Count_max": 43000,
@@ -1028,7 +914,6 @@
   {
     "Country": "Nigeria",
     "Year": 2018,
-    "Count": "1900000[1400000â€“2600000]",
     "Count_median": 1900000,
     "Count_min": 1400000,
     "Count_max": 2600000,
@@ -1037,7 +922,6 @@
   {
     "Country": "Norway",
     "Year": 2018,
-    "Count": "5800[5200â€“6300]",
     "Count_median": 5800,
     "Count_min": 5200,
     "Count_max": 6300,
@@ -1046,7 +930,6 @@
   {
     "Country": "Oman",
     "Year": 2018,
-    "Count": "3200[2900â€“3600]",
     "Count_median": 3200,
     "Count_min": 2900,
     "Count_max": 3600,
@@ -1055,7 +938,6 @@
   {
     "Country": "Pakistan",
     "Year": 2018,
-    "Count": "160000[140000â€“190000]",
     "Count_median": 160000,
     "Count_min": 140000,
     "Count_max": 190000,
@@ -1064,7 +946,6 @@
   {
     "Country": "Panama",
     "Year": 2018,
-    "Count": "26000[24000â€“29000]",
     "Count_median": 26000,
     "Count_min": 24000,
     "Count_max": 29000,
@@ -1073,7 +954,6 @@
   {
     "Country": "Papua New Guinea",
     "Year": 2018,
-    "Count": "45000[41000â€“50000]",
     "Count_median": 45000,
     "Count_min": 41000,
     "Count_max": 50000,
@@ -1082,7 +962,6 @@
   {
     "Country": "Paraguay",
     "Year": 2018,
-    "Count": "21000[16000â€“31000]",
     "Count_median": 21000,
     "Count_min": 16000,
     "Count_max": 31000,
@@ -1091,7 +970,6 @@
   {
     "Country": "Peru",
     "Year": 2018,
-    "Count": "79000[58000â€“110000]",
     "Count_median": 79000,
     "Count_min": 58000,
     "Count_max": 110000,
@@ -1100,7 +978,6 @@
   {
     "Country": "Philippines",
     "Year": 2018,
-    "Count": "77000[65000â€“90000]",
     "Count_median": 77000,
     "Count_min": 65000,
     "Count_max": 90000,
@@ -1109,7 +986,6 @@
   {
     "Country": "Poland",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1118,7 +994,6 @@
   {
     "Country": "Portugal",
     "Year": 2018,
-    "Count": "41000[36000â€“46000]",
     "Count_median": 41000,
     "Count_min": 36000,
     "Count_max": 46000,
@@ -1127,7 +1002,6 @@
   {
     "Country": "Qatar",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1136,7 +1010,6 @@
   {
     "Country": "Republic of Korea",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1145,7 +1018,6 @@
   {
     "Country": "Republic of Moldova",
     "Year": 2018,
-    "Count": "17000[14000â€“23000]",
     "Count_median": 17000,
     "Count_min": 14000,
     "Count_max": 23000,
@@ -1154,7 +1026,6 @@
   {
     "Country": "Republic of North Macedonia",
     "Year": 2018,
-    "Count": "500[500â€“520]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 520,
@@ -1163,7 +1034,6 @@
   {
     "Country": "Romania",
     "Year": 2018,
-    "Count": "18000[16000â€“20000]",
     "Count_median": 18000,
     "Count_min": 16000,
     "Count_max": 20000,
@@ -1172,7 +1042,6 @@
   {
     "Country": "Russian Federation",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1181,7 +1050,6 @@
   {
     "Country": "Rwanda",
     "Year": 2018,
-    "Count": "220000[200000â€“250000]",
     "Count_median": 220000,
     "Count_min": 200000,
     "Count_max": 250000,
@@ -1190,7 +1058,6 @@
   {
     "Country": "Saudi Arabia",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1199,7 +1066,6 @@
   {
     "Country": "Senegal",
     "Year": 2018,
-    "Count": "42000[37000â€“47000]",
     "Count_median": 42000,
     "Count_min": 37000,
     "Count_max": 47000,
@@ -1208,7 +1074,6 @@
   {
     "Country": "Serbia",
     "Year": 2018,
-    "Count": "3000[2200â€“3800]",
     "Count_median": 3000,
     "Count_min": 2200,
     "Count_max": 3800,
@@ -1217,7 +1082,6 @@
   {
     "Country": "Sierra Leone",
     "Year": 2018,
-    "Count": "70000[56000â€“86000]",
     "Count_median": 70000,
     "Count_min": 56000,
     "Count_max": 86000,
@@ -1226,7 +1090,6 @@
   {
     "Country": "Singapore",
     "Year": 2018,
-    "Count": "7900[7200â€“8700]",
     "Count_median": 7900,
     "Count_min": 7200,
     "Count_max": 8700,
@@ -1235,7 +1098,6 @@
   {
     "Country": "Slovakia",
     "Year": 2018,
-    "Count": "1200[910â€“1900]",
     "Count_median": 1200,
     "Count_min": 910,
     "Count_max": 1900,
@@ -1244,7 +1106,6 @@
   {
     "Country": "Slovenia",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1253,7 +1114,6 @@
   {
     "Country": "Somalia",
     "Year": 2018,
-    "Count": "11000[8400â€“15000]",
     "Count_median": 11000,
     "Count_min": 8400,
     "Count_max": 15000,
@@ -1262,7 +1122,6 @@
   {
     "Country": "South Africa",
     "Year": 2018,
-    "Count": "7700000[7100000â€“8300000]",
     "Count_median": 7700000,
     "Count_min": 7100000,
     "Count_max": 8300000,
@@ -1271,7 +1130,6 @@
   {
     "Country": "South Sudan",
     "Year": 2018,
-    "Count": "190000[140000â€“240000]",
     "Count_median": 190000,
     "Count_min": 140000,
     "Count_max": 240000,
@@ -1280,7 +1138,6 @@
   {
     "Country": "Spain",
     "Year": 2018,
-    "Count": "150000[130000â€“170000]",
     "Count_median": 150000,
     "Count_min": 130000,
     "Count_max": 170000,
@@ -1289,7 +1146,6 @@
   {
     "Country": "Sri Lanka",
     "Year": 2018,
-    "Count": "3500[3100â€“4000]",
     "Count_median": 3500,
     "Count_min": 3100,
     "Count_max": 4000,
@@ -1298,7 +1154,6 @@
   {
     "Country": "Sudan",
     "Year": 2018,
-    "Count": "59000[26000â€“110000]",
     "Count_median": 59000,
     "Count_min": 26000,
     "Count_max": 110000,
@@ -1307,7 +1162,6 @@
   {
     "Country": "Suriname",
     "Year": 2018,
-    "Count": "5600[3700â€“8100]",
     "Count_median": 5600,
     "Count_min": 3700,
     "Count_max": 8100,
@@ -1316,7 +1170,6 @@
   {
     "Country": "Sweden",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1325,7 +1178,6 @@
   {
     "Country": "Switzerland",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1334,7 +1186,6 @@
   {
     "Country": "Syrian Arab Republic",
     "Year": 2018,
-    "Count": "660[590â€“720]",
     "Count_median": 660,
     "Count_min": 590,
     "Count_max": 720,
@@ -1343,7 +1194,6 @@
   {
     "Country": "Tajikistan",
     "Year": 2018,
-    "Count": "13000[11000â€“16000]",
     "Count_median": 13000,
     "Count_min": 11000,
     "Count_max": 16000,
@@ -1352,7 +1202,6 @@
   {
     "Country": "Thailand",
     "Year": 2018,
-    "Count": "480000[420000â€“550000]",
     "Count_median": 480000,
     "Count_min": 420000,
     "Count_max": 550000,
@@ -1361,7 +1210,6 @@
   {
     "Country": "Timor-Leste",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1370,7 +1218,6 @@
   {
     "Country": "Togo",
     "Year": 2018,
-    "Count": "110000[100000â€“120000]",
     "Count_median": 110000,
     "Count_min": 100000,
     "Count_max": 120000,
@@ -1379,7 +1226,6 @@
   {
     "Country": "Trinidad and Tobago",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1388,7 +1234,6 @@
   {
     "Country": "Tunisia",
     "Year": 2018,
-    "Count": "2800[1700â€“4400]",
     "Count_median": 2800,
     "Count_min": 1700,
     "Count_max": 4400,
@@ -1397,7 +1242,6 @@
   {
     "Country": "Turkey",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1406,7 +1250,6 @@
   {
     "Country": "Turkmenistan",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1415,7 +1258,6 @@
   {
     "Country": "Uganda",
     "Year": 2018,
-    "Count": "1400000[1300000â€“1500000]",
     "Count_median": 1400000,
     "Count_min": 1300000,
     "Count_max": 1500000,
@@ -1424,7 +1266,6 @@
   {
     "Country": "Ukraine",
     "Year": 2018,
-    "Count": "240000[220000â€“260000]",
     "Count_median": 240000,
     "Count_min": 220000,
     "Count_max": 260000,
@@ -1433,7 +1274,6 @@
   {
     "Country": "United Arab Emirates",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1442,7 +1282,6 @@
   {
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1451,7 +1290,6 @@
   {
     "Country": "United Republic of Tanzania",
     "Year": 2018,
-    "Count": "1600000[1400000â€“1700000]",
     "Count_median": 1600000,
     "Count_min": 1400000,
     "Count_max": 1700000,
@@ -1460,7 +1298,6 @@
   {
     "Country": "United States of America",
     "Year": 2018,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1469,7 +1306,6 @@
   {
     "Country": "Uruguay",
     "Year": 2018,
-    "Count": "14000[9900â€“19000]",
     "Count_median": 14000,
     "Count_min": 9900,
     "Count_max": 19000,
@@ -1478,7 +1314,6 @@
   {
     "Country": "Uzbekistan",
     "Year": 2018,
-    "Count": "52000[48000â€“56000]",
     "Count_median": 52000,
     "Count_min": 48000,
     "Count_max": 56000,
@@ -1487,7 +1322,6 @@
   {
     "Country": "Venezuela (Bolivarian Republic of)",
     "Year": 2018,
-    "Count": "120000[100000â€“130000]",
     "Count_median": 120000,
     "Count_min": 100000,
     "Count_max": 130000,
@@ -1496,7 +1330,6 @@
   {
     "Country": "Viet Nam",
     "Year": 2018,
-    "Count": "230000[200000â€“260000]",
     "Count_median": 230000,
     "Count_min": 200000,
     "Count_max": 260000,
@@ -1505,7 +1338,6 @@
   {
     "Country": "Yemen",
     "Year": 2018,
-    "Count": "11000[6500â€“18000]",
     "Count_median": 11000,
     "Count_min": 6500,
     "Count_max": 18000,
@@ -1514,7 +1346,6 @@
   {
     "Country": "Zambia",
     "Year": 2018,
-    "Count": "1200000[1100000â€“1400000]",
     "Count_median": 1200000,
     "Count_min": 1100000,
     "Count_max": 1400000,
@@ -1523,7 +1354,6 @@
   {
     "Country": "Zimbabwe",
     "Year": 2018,
-    "Count": "1300000[1100000â€“1500000]",
     "Count_median": 1300000,
     "Count_min": 1100000,
     "Count_max": 1500000,
@@ -1532,7 +1362,6 @@
   {
     "Country": "Afghanistan",
     "Year": 2010,
-    "Count": "4200[2500â€“6200]",
     "Count_median": 4200,
     "Count_min": 2500,
     "Count_max": 6200,
@@ -1541,7 +1370,6 @@
   {
     "Country": "Albania",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1550,7 +1378,6 @@
   {
     "Country": "Algeria",
     "Year": 2010,
-    "Count": "7100[6600â€“7600]",
     "Count_median": 7100,
     "Count_min": 6600,
     "Count_max": 7600,
@@ -1559,7 +1386,6 @@
   {
     "Country": "Angola",
     "Year": 2010,
-    "Count": "220000[180000â€“250000]",
     "Count_median": 220000,
     "Count_min": 180000,
     "Count_max": 250000,
@@ -1568,7 +1394,6 @@
   {
     "Country": "Argentina",
     "Year": 2010,
-    "Count": "110000[96000â€“120000]",
     "Count_median": 110000,
     "Count_min": 96000,
     "Count_max": 120000,
@@ -1577,7 +1402,6 @@
   {
     "Country": "Armenia",
     "Year": 2010,
-    "Count": "3300[2800â€“4100]",
     "Count_median": 3300,
     "Count_min": 2800,
     "Count_max": 4100,
@@ -1586,7 +1410,6 @@
   {
     "Country": "Australia",
     "Year": 2010,
-    "Count": "21000[17000â€“23000]",
     "Count_median": 21000,
     "Count_min": 17000,
     "Count_max": 23000,
@@ -1595,7 +1418,6 @@
   {
     "Country": "Austria",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1604,7 +1426,6 @@
   {
     "Country": "Azerbaijan",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1613,7 +1434,6 @@
   {
     "Country": "Bahamas",
     "Year": 2010,
-    "Count": "5800[5100â€“6600]",
     "Count_median": 5800,
     "Count_min": 5100,
     "Count_max": 6600,
@@ -1622,7 +1442,6 @@
   {
     "Country": "Bahrain",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1631,7 +1450,6 @@
   {
     "Country": "Bangladesh",
     "Year": 2010,
-    "Count": "7700[6600â€“8800]",
     "Count_median": 7700,
     "Count_min": 6600,
     "Count_max": 8800,
@@ -1640,7 +1458,6 @@
   {
     "Country": "Barbados",
     "Year": 2010,
-    "Count": "2300[2100â€“2600]",
     "Count_median": 2300,
     "Count_min": 2100,
     "Count_max": 2600,
@@ -1649,7 +1466,6 @@
   {
     "Country": "Belarus",
     "Year": 2010,
-    "Count": "12000[10000â€“15000]",
     "Count_median": 12000,
     "Count_min": 10000,
     "Count_max": 15000,
@@ -1658,7 +1474,6 @@
   {
     "Country": "Belgium",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1667,7 +1482,6 @@
   {
     "Country": "Belize",
     "Year": 2010,
-    "Count": "3700[3400â€“4100]",
     "Count_median": 3700,
     "Count_min": 3400,
     "Count_max": 4100,
@@ -1676,7 +1490,6 @@
   {
     "Country": "Benin",
     "Year": 2010,
-    "Count": "61000[41000â€“98000]",
     "Count_median": 61000,
     "Count_min": 41000,
     "Count_max": 98000,
@@ -1685,7 +1498,6 @@
   {
     "Country": "Bhutan",
     "Year": 2010,
-    "Count": "1300[590â€“2700]",
     "Count_median": 1300,
     "Count_min": 590,
     "Count_max": 2700,
@@ -1694,7 +1506,6 @@
   {
     "Country": "Bolivia (Plurinational State of)",
     "Year": 2010,
-    "Count": "23000[20000â€“25000]",
     "Count_median": 23000,
     "Count_min": 20000,
     "Count_max": 25000,
@@ -1703,7 +1514,6 @@
   {
     "Country": "Bosnia and Herzegovina",
     "Year": 2010,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -1712,7 +1522,6 @@
   {
     "Country": "Botswana",
     "Year": 2010,
-    "Count": "340000[300000â€“360000]",
     "Count_median": 340000,
     "Count_min": 300000,
     "Count_max": 360000,
@@ -1721,7 +1530,6 @@
   {
     "Country": "Brazil",
     "Year": 2010,
-    "Count": "670000[520000â€“830000]",
     "Count_median": 670000,
     "Count_min": 520000,
     "Count_max": 830000,
@@ -1730,7 +1538,6 @@
   {
     "Country": "Brunei Darussalam",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1739,7 +1546,6 @@
   {
     "Country": "Bulgaria",
     "Year": 2010,
-    "Count": "1700[1600â€“1900]",
     "Count_median": 1700,
     "Count_min": 1600,
     "Count_max": 1900,
@@ -1748,7 +1554,6 @@
   {
     "Country": "Burkina Faso",
     "Year": 2010,
-    "Count": "110000[88000â€“130000]",
     "Count_median": 110000,
     "Count_min": 88000,
     "Count_max": 130000,
@@ -1757,7 +1562,6 @@
   {
     "Country": "Burundi",
     "Year": 2010,
-    "Count": "93000[79000â€“110000]",
     "Count_median": 93000,
     "Count_min": 79000,
     "Count_max": 110000,
@@ -1766,7 +1570,6 @@
   {
     "Country": "Cabo Verde",
     "Year": 2010,
-    "Count": "2100[1700â€“2600]",
     "Count_median": 2100,
     "Count_min": 1700,
     "Count_max": 2600,
@@ -1775,7 +1578,6 @@
   {
     "Country": "Cambodia",
     "Year": 2010,
-    "Count": "79000[68000â€“93000]",
     "Count_median": 79000,
     "Count_min": 68000,
     "Count_max": 93000,
@@ -1784,7 +1586,6 @@
   {
     "Country": "Cameroon",
     "Year": 2010,
-    "Count": "520000[460000â€“560000]",
     "Count_median": 520000,
     "Count_min": 460000,
     "Count_max": 560000,
@@ -1793,7 +1594,6 @@
   {
     "Country": "Canada",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1802,7 +1602,6 @@
   {
     "Country": "Central African Republic",
     "Year": 2010,
-    "Count": "140000[110000â€“160000]",
     "Count_median": 140000,
     "Count_min": 110000,
     "Count_max": 160000,
@@ -1811,7 +1610,6 @@
   {
     "Country": "Chad",
     "Year": 2010,
-    "Count": "99000[80000â€“120000]",
     "Count_median": 99000,
     "Count_min": 80000,
     "Count_max": 120000,
@@ -1820,7 +1618,6 @@
   {
     "Country": "Chile",
     "Year": 2010,
-    "Count": "39000[34000â€“43000]",
     "Count_median": 39000,
     "Count_min": 34000,
     "Count_max": 43000,
@@ -1829,7 +1626,6 @@
   {
     "Country": "China",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1838,7 +1634,6 @@
   {
     "Country": "Colombia",
     "Year": 2010,
-    "Count": "130000[100000â€“150000]",
     "Count_median": 130000,
     "Count_min": 100000,
     "Count_max": 150000,
@@ -1847,7 +1642,6 @@
   {
     "Country": "Comoros",
     "Year": 2010,
-    "Count": "200[100â€“500]",
     "Count_median": 200,
     "Count_min": 100,
     "Count_max": 500,
@@ -1856,7 +1650,6 @@
   {
     "Country": "Congo",
     "Year": 2010,
-    "Count": "82000[69000â€“95000]",
     "Count_median": 82000,
     "Count_min": 69000,
     "Count_max": 95000,
@@ -1865,7 +1658,6 @@
   {
     "Country": "Costa Rica",
     "Year": 2010,
-    "Count": "9300[8400â€“10000]",
     "Count_median": 9300,
     "Count_min": 8400,
     "Count_max": 10000,
@@ -1874,7 +1666,6 @@
   {
     "Country": "CÃ´te d'Ivoire",
     "Year": 2010,
-    "Count": "480000[380000â€“610000]",
     "Count_median": 480000,
     "Count_min": 380000,
     "Count_max": 610000,
@@ -1883,7 +1674,6 @@
   {
     "Country": "Croatia",
     "Year": 2010,
-    "Count": "1000[930â€“1100]",
     "Count_median": 1000,
     "Count_min": 930,
     "Count_max": 1100,
@@ -1892,7 +1682,6 @@
   {
     "Country": "Cuba",
     "Year": 2010,
-    "Count": "17000[13000â€“21000]",
     "Count_median": 17000,
     "Count_min": 13000,
     "Count_max": 21000,
@@ -1901,7 +1690,6 @@
   {
     "Country": "Cyprus",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1910,7 +1698,6 @@
   {
     "Country": "Czechia",
     "Year": 2010,
-    "Count": "1800[1500â€“2000]",
     "Count_median": 1800,
     "Count_min": 1500,
     "Count_max": 2000,
@@ -1919,7 +1706,6 @@
   {
     "Country": "Democratic People's Republic of Korea",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -1928,7 +1714,6 @@
   {
     "Country": "Democratic Republic of the Congo",
     "Year": 2010,
-    "Count": "480000[400000â€“560000]",
     "Count_median": 480000,
     "Count_min": 400000,
     "Count_max": 560000,
@@ -1937,7 +1722,6 @@
   {
     "Country": "Denmark",
     "Year": 2010,
-    "Count": "5500[5000â€“6200]",
     "Count_median": 5500,
     "Count_min": 5000,
     "Count_max": 6200,
@@ -1946,7 +1730,6 @@
   {
     "Country": "Djibouti",
     "Year": 2010,
-    "Count": "9400[7700â€“11000]",
     "Count_median": 9400,
     "Count_min": 7700,
     "Count_max": 11000,
@@ -1955,7 +1738,6 @@
   {
     "Country": "Dominican Republic",
     "Year": 2010,
-    "Count": "72000[54000â€“91000]",
     "Count_median": 72000,
     "Count_min": 54000,
     "Count_max": 91000,
@@ -1964,7 +1746,6 @@
   {
     "Country": "Ecuador",
     "Year": 2010,
-    "Count": "34000[22000â€“57000]",
     "Count_median": 34000,
     "Count_min": 22000,
     "Count_max": 57000,
@@ -1973,7 +1754,6 @@
   {
     "Country": "Egypt",
     "Year": 2010,
-    "Count": "6800[6100â€“7400]",
     "Count_median": 6800,
     "Count_min": 6100,
     "Count_max": 7400,
@@ -1982,7 +1762,6 @@
   {
     "Country": "El Salvador",
     "Year": 2010,
-    "Count": "26000[20000â€“31000]",
     "Count_median": 26000,
     "Count_min": 20000,
     "Count_max": 31000,
@@ -1991,7 +1770,6 @@
   {
     "Country": "Equatorial Guinea",
     "Year": 2010,
-    "Count": "35000[29000â€“41000]",
     "Count_median": 35000,
     "Count_min": 29000,
     "Count_max": 41000,
@@ -2000,7 +1778,6 @@
   {
     "Country": "Eritrea",
     "Year": 2010,
-    "Count": "17000[13000â€“22000]",
     "Count_median": 17000,
     "Count_min": 13000,
     "Count_max": 22000,
@@ -2009,7 +1786,6 @@
   {
     "Country": "Estonia",
     "Year": 2010,
-    "Count": "6000[5100â€“6700]",
     "Count_median": 6000,
     "Count_min": 5100,
     "Count_max": 6700,
@@ -2018,7 +1794,6 @@
   {
     "Country": "Eswatini",
     "Year": 2010,
-    "Count": "160000[150000â€“170000]",
     "Count_median": 160000,
     "Count_min": 150000,
     "Count_max": 170000,
@@ -2027,7 +1802,6 @@
   {
     "Country": "Ethiopia",
     "Year": 2010,
-    "Count": "630000[480000â€“830000]",
     "Count_median": 630000,
     "Count_min": 480000,
     "Count_max": 830000,
@@ -2036,7 +1810,6 @@
   {
     "Country": "Fiji",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2045,7 +1818,6 @@
   {
     "Country": "Finland",
     "Year": 2010,
-    "Count": "2700[2200â€“3500]",
     "Count_median": 2700,
     "Count_min": 2200,
     "Count_max": 3500,
@@ -2054,7 +1826,6 @@
   {
     "Country": "France",
     "Year": 2010,
-    "Count": "140000[120000â€“160000]",
     "Count_median": 140000,
     "Count_min": 120000,
     "Count_max": 160000,
@@ -2063,7 +1834,6 @@
   {
     "Country": "Gabon",
     "Year": 2010,
-    "Count": "43000[36000â€“51000]",
     "Count_median": 43000,
     "Count_min": 36000,
     "Count_max": 51000,
@@ -2072,7 +1842,6 @@
   {
     "Country": "Gambia",
     "Year": 2010,
-    "Count": "18000[15000â€“23000]",
     "Count_median": 18000,
     "Count_min": 15000,
     "Count_max": 23000,
@@ -2081,7 +1850,6 @@
   {
     "Country": "Georgia",
     "Year": 2010,
-    "Count": "5600[4500â€“6700]",
     "Count_median": 5600,
     "Count_min": 4500,
     "Count_max": 6700,
@@ -2090,7 +1858,6 @@
   {
     "Country": "Germany",
     "Year": 2010,
-    "Count": "69000[57000â€“81000]",
     "Count_median": 69000,
     "Count_min": 57000,
     "Count_max": 81000,
@@ -2099,7 +1866,6 @@
   {
     "Country": "Ghana",
     "Year": 2010,
-    "Count": "300000[250000â€“340000]",
     "Count_median": 300000,
     "Count_min": 250000,
     "Count_max": 340000,
@@ -2108,7 +1874,6 @@
   {
     "Country": "Greece",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2117,7 +1882,6 @@
   {
     "Country": "Guatemala",
     "Year": 2010,
-    "Count": "49000[44000â€“53000]",
     "Count_median": 49000,
     "Count_min": 44000,
     "Count_max": 53000,
@@ -2126,7 +1890,6 @@
   {
     "Country": "Guinea",
     "Year": 2010,
-    "Count": "100000[90000â€“120000]",
     "Count_median": 100000,
     "Count_min": 90000,
     "Count_max": 120000,
@@ -2135,7 +1898,6 @@
   {
     "Country": "Guinea-Bissau",
     "Year": 2010,
-    "Count": "38000[34000â€“42000]",
     "Count_median": 38000,
     "Count_min": 34000,
     "Count_max": 42000,
@@ -2144,7 +1906,6 @@
   {
     "Country": "Guyana",
     "Year": 2010,
-    "Count": "6700[6000â€“7400]",
     "Count_median": 6700,
     "Count_min": 6000,
     "Count_max": 7400,
@@ -2153,7 +1914,6 @@
   {
     "Country": "Haiti",
     "Year": 2010,
-    "Count": "140000[130000â€“160000]",
     "Count_median": 140000,
     "Count_min": 130000,
     "Count_max": 160000,
@@ -2162,7 +1922,6 @@
   {
     "Country": "Honduras",
     "Year": 2010,
-    "Count": "26000[21000â€“32000]",
     "Count_median": 26000,
     "Count_min": 21000,
     "Count_max": 32000,
@@ -2171,7 +1930,6 @@
   {
     "Country": "Hungary",
     "Year": 2010,
-    "Count": "2000[1800â€“2300]",
     "Count_median": 2000,
     "Count_min": 1800,
     "Count_max": 2300,
@@ -2180,7 +1938,6 @@
   {
     "Country": "Iceland",
     "Year": 2010,
-    "Count": "500[200â€“500]",
     "Count_median": 500,
     "Count_min": 200,
     "Count_max": 500,
@@ -2189,7 +1946,6 @@
   {
     "Country": "India",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2198,7 +1954,6 @@
   {
     "Country": "Indonesia",
     "Year": 2010,
-    "Count": "510000[450000â€“590000]",
     "Count_median": 510000,
     "Count_min": 450000,
     "Count_max": 590000,
@@ -2207,7 +1962,6 @@
   {
     "Country": "Iran (Islamic Republic of)",
     "Year": 2010,
-    "Count": "50000[37000â€“70000]",
     "Count_median": 50000,
     "Count_min": 37000,
     "Count_max": 70000,
@@ -2216,7 +1970,6 @@
   {
     "Country": "Ireland",
     "Year": 2010,
-    "Count": "4800[4200â€“5400]",
     "Count_median": 4800,
     "Count_min": 4200,
     "Count_max": 5400,
@@ -2225,7 +1978,6 @@
   {
     "Country": "Israel",
     "Year": 2010,
-    "Count": "6000[5400â€“6800]",
     "Count_median": 6000,
     "Count_min": 5400,
     "Count_max": 6800,
@@ -2234,7 +1986,6 @@
   {
     "Country": "Italy",
     "Year": 2010,
-    "Count": "110000[92000â€“120000]",
     "Count_median": 110000,
     "Count_min": 92000,
     "Count_max": 120000,
@@ -2243,7 +1994,6 @@
   {
     "Country": "Jamaica",
     "Year": 2010,
-    "Count": "37000[32000â€“42000]",
     "Count_median": 37000,
     "Count_min": 32000,
     "Count_max": 42000,
@@ -2252,7 +2002,6 @@
   {
     "Country": "Japan",
     "Year": 2010,
-    "Count": "19000[16000â€“22000]",
     "Count_median": 19000,
     "Count_min": 16000,
     "Count_max": 22000,
@@ -2261,7 +2010,6 @@
   {
     "Country": "Jordan",
     "Year": 2010,
-    "Count": "200[200â€“500]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 500,
@@ -2270,7 +2018,6 @@
   {
     "Country": "Kazakhstan",
     "Year": 2010,
-    "Count": "11000[10000â€“11000]",
     "Count_median": 11000,
     "Count_min": 10000,
     "Count_max": 11000,
@@ -2279,7 +2026,6 @@
   {
     "Country": "Kenya",
     "Year": 2010,
-    "Count": "1500000[1200000â€“1800000]",
     "Count_median": 1500000,
     "Count_min": 1200000,
     "Count_max": 1800000,
@@ -2288,7 +2034,6 @@
   {
     "Country": "Kuwait",
     "Year": 2010,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -2297,7 +2042,6 @@
   {
     "Country": "Kyrgyzstan",
     "Year": 2010,
-    "Count": "4100[3200â€“5500]",
     "Count_median": 4100,
     "Count_min": 3200,
     "Count_max": 5500,
@@ -2306,7 +2050,6 @@
   {
     "Country": "Lao People's Democratic Republic",
     "Year": 2010,
-    "Count": "9900[8800â€“11000]",
     "Count_median": 9900,
     "Count_min": 8800,
     "Count_max": 11000,
@@ -2315,7 +2058,6 @@
   {
     "Country": "Latvia",
     "Year": 2010,
-    "Count": "4000[3500â€“4500]",
     "Count_median": 4000,
     "Count_min": 3500,
     "Count_max": 4500,
@@ -2324,7 +2066,6 @@
   {
     "Country": "Lebanon",
     "Year": 2010,
-    "Count": "1600[1400â€“1800]",
     "Count_median": 1600,
     "Count_min": 1400,
     "Count_max": 1800,
@@ -2333,7 +2074,6 @@
   {
     "Country": "Lesotho",
     "Year": 2010,
-    "Count": "300000[280000â€“320000]",
     "Count_median": 300000,
     "Count_min": 280000,
     "Count_max": 320000,
@@ -2342,7 +2082,6 @@
   {
     "Country": "Liberia",
     "Year": 2010,
-    "Count": "41000[37000â€“46000]",
     "Count_median": 41000,
     "Count_min": 37000,
     "Count_max": 46000,
@@ -2351,7 +2090,6 @@
   {
     "Country": "Libya",
     "Year": 2010,
-    "Count": "6100[5600â€“6500]",
     "Count_median": 6100,
     "Count_min": 5600,
     "Count_max": 6500,
@@ -2360,7 +2098,6 @@
   {
     "Country": "Lithuania",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2369,7 +2106,6 @@
   {
     "Country": "Luxembourg",
     "Year": 2010,
-    "Count": "700[620â€“780]",
     "Count_median": 700,
     "Count_min": 620,
     "Count_max": 780,
@@ -2378,7 +2114,6 @@
   {
     "Country": "Madagascar",
     "Year": 2010,
-    "Count": "21000[18000â€“24000]",
     "Count_median": 21000,
     "Count_min": 18000,
     "Count_max": 24000,
@@ -2387,7 +2122,6 @@
   {
     "Country": "Malawi",
     "Year": 2010,
-    "Count": "870000[770000â€“960000]",
     "Count_median": 870000,
     "Count_min": 770000,
     "Count_max": 960000,
@@ -2396,7 +2130,6 @@
   {
     "Country": "Malaysia",
     "Year": 2010,
-    "Count": "74000[65000â€“86000]",
     "Count_median": 74000,
     "Count_min": 65000,
     "Count_max": 86000,
@@ -2405,7 +2138,6 @@
   {
     "Country": "Maldives",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2414,7 +2146,6 @@
   {
     "Country": "Mali",
     "Year": 2010,
-    "Count": "120000[94000â€“140000]",
     "Count_median": 120000,
     "Count_min": 94000,
     "Count_max": 140000,
@@ -2423,7 +2154,6 @@
   {
     "Country": "Malta",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2432,7 +2162,6 @@
   {
     "Country": "Mauritania",
     "Year": 2010,
-    "Count": "7100[5900â€“8400]",
     "Count_median": 7100,
     "Count_min": 5900,
     "Count_max": 8400,
@@ -2441,7 +2170,6 @@
   {
     "Country": "Mauritius",
     "Year": 2010,
-    "Count": "11000[9500â€“12000]",
     "Count_median": 11000,
     "Count_min": 9500,
     "Count_max": 12000,
@@ -2450,7 +2178,6 @@
   {
     "Country": "Mexico",
     "Year": 2010,
-    "Count": "180000[150000â€“210000]",
     "Count_median": 180000,
     "Count_min": 150000,
     "Count_max": 210000,
@@ -2459,7 +2186,6 @@
   {
     "Country": "Mongolia",
     "Year": 2010,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -2468,7 +2194,6 @@
   {
     "Country": "Montenegro",
     "Year": 2010,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -2477,7 +2202,6 @@
   {
     "Country": "Morocco",
     "Year": 2010,
-    "Count": "17000[13000â€“22000]",
     "Count_median": 17000,
     "Count_min": 13000,
     "Count_max": 22000,
@@ -2486,7 +2210,6 @@
   {
     "Country": "Mozambique",
     "Year": 2010,
-    "Count": "1600000[1300000â€“1900000]",
     "Count_median": 1600000,
     "Count_min": 1300000,
     "Count_max": 1900000,
@@ -2495,7 +2218,6 @@
   {
     "Country": "Myanmar",
     "Year": 2010,
-    "Count": "220000[190000â€“260000]",
     "Count_median": 220000,
     "Count_min": 190000,
     "Count_max": 260000,
@@ -2504,7 +2226,6 @@
   {
     "Country": "Namibia",
     "Year": 2010,
-    "Count": "170000[160000â€“180000]",
     "Count_median": 170000,
     "Count_min": 160000,
     "Count_max": 180000,
@@ -2513,7 +2234,6 @@
   {
     "Country": "Nepal",
     "Year": 2010,
-    "Count": "31000[27000â€“36000]",
     "Count_median": 31000,
     "Count_min": 27000,
     "Count_max": 36000,
@@ -2522,7 +2242,6 @@
   {
     "Country": "Netherlands",
     "Year": 2010,
-    "Count": "20000[19000â€“21000]",
     "Count_median": 20000,
     "Count_min": 19000,
     "Count_max": 21000,
@@ -2531,7 +2250,6 @@
   {
     "Country": "New Zealand",
     "Year": 2010,
-    "Count": "2500[2100â€“2800]",
     "Count_median": 2500,
     "Count_min": 2100,
     "Count_max": 2800,
@@ -2540,7 +2258,6 @@
   {
     "Country": "Nicaragua",
     "Year": 2010,
-    "Count": "7900[6500â€“10000]",
     "Count_median": 7900,
     "Count_min": 6500,
     "Count_max": 10000,
@@ -2549,7 +2266,6 @@
   {
     "Country": "Niger",
     "Year": 2010,
-    "Count": "37000[32000â€“42000]",
     "Count_median": 37000,
     "Count_min": 32000,
     "Count_max": 42000,
@@ -2558,7 +2274,6 @@
   {
     "Country": "Nigeria",
     "Year": 2010,
-    "Count": "1500000[1100000â€“2100000]",
     "Count_median": 1500000,
     "Count_min": 1100000,
     "Count_max": 2100000,
@@ -2567,7 +2282,6 @@
   {
     "Country": "Norway",
     "Year": 2010,
-    "Count": "4200[3800â€“4600]",
     "Count_median": 4200,
     "Count_min": 3800,
     "Count_max": 4600,
@@ -2576,7 +2290,6 @@
   {
     "Country": "Oman",
     "Year": 2010,
-    "Count": "2200[2000â€“2500]",
     "Count_median": 2200,
     "Count_min": 2000,
     "Count_max": 2500,
@@ -2585,7 +2298,6 @@
   {
     "Country": "Pakistan",
     "Year": 2010,
-    "Count": "67000[57000â€“76000]",
     "Count_median": 67000,
     "Count_min": 57000,
     "Count_max": 76000,
@@ -2594,7 +2306,6 @@
   {
     "Country": "Panama",
     "Year": 2010,
-    "Count": "20000[18000â€“22000]",
     "Count_median": 20000,
     "Count_min": 18000,
     "Count_max": 22000,
@@ -2603,7 +2314,6 @@
   {
     "Country": "Papua New Guinea",
     "Year": 2010,
-    "Count": "38000[34000â€“42000]",
     "Count_median": 38000,
     "Count_min": 34000,
     "Count_max": 42000,
@@ -2612,7 +2322,6 @@
   {
     "Country": "Paraguay",
     "Year": 2010,
-    "Count": "20000[14000â€“27000]",
     "Count_median": 20000,
     "Count_min": 14000,
     "Count_max": 27000,
@@ -2621,7 +2330,6 @@
   {
     "Country": "Peru",
     "Year": 2010,
-    "Count": "65000[49000â€“91000]",
     "Count_median": 65000,
     "Count_min": 49000,
     "Count_max": 91000,
@@ -2630,7 +2338,6 @@
   {
     "Country": "Philippines",
     "Year": 2010,
-    "Count": "15000[13000â€“18000]",
     "Count_median": 15000,
     "Count_min": 13000,
     "Count_max": 18000,
@@ -2639,7 +2346,6 @@
   {
     "Country": "Poland",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2648,7 +2354,6 @@
   {
     "Country": "Portugal",
     "Year": 2010,
-    "Count": "40000[35000â€“45000]",
     "Count_median": 40000,
     "Count_min": 35000,
     "Count_max": 45000,
@@ -2657,7 +2362,6 @@
   {
     "Country": "Qatar",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2666,7 +2370,6 @@
   {
     "Country": "Republic of Korea",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2675,7 +2378,6 @@
   {
     "Country": "Republic of Moldova",
     "Year": 2010,
-    "Count": "16000[12000â€“20000]",
     "Count_median": 16000,
     "Count_min": 12000,
     "Count_max": 20000,
@@ -2684,7 +2386,6 @@
   {
     "Country": "Republic of North Macedonia",
     "Year": 2010,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -2693,7 +2394,6 @@
   {
     "Country": "Romania",
     "Year": 2010,
-    "Count": "14000[12000â€“15000]",
     "Count_median": 14000,
     "Count_min": 12000,
     "Count_max": 15000,
@@ -2702,7 +2402,6 @@
   {
     "Country": "Russian Federation",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2711,7 +2410,6 @@
   {
     "Country": "Rwanda",
     "Year": 2010,
-    "Count": "220000[200000â€“250000]",
     "Count_median": 220000,
     "Count_min": 200000,
     "Count_max": 250000,
@@ -2720,7 +2418,6 @@
   {
     "Country": "Saudi Arabia",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2729,7 +2426,6 @@
   {
     "Country": "Senegal",
     "Year": 2010,
-    "Count": "44000[39000â€“50000]",
     "Count_median": 44000,
     "Count_min": 39000,
     "Count_max": 50000,
@@ -2738,7 +2434,6 @@
   {
     "Country": "Serbia",
     "Year": 2010,
-    "Count": "1800[1300â€“2200]",
     "Count_median": 1800,
     "Count_min": 1300,
     "Count_max": 2200,
@@ -2747,7 +2442,6 @@
   {
     "Country": "Sierra Leone",
     "Year": 2010,
-    "Count": "58000[48000â€“70000]",
     "Count_median": 58000,
     "Count_min": 48000,
     "Count_max": 70000,
@@ -2756,7 +2450,6 @@
   {
     "Country": "Singapore",
     "Year": 2010,
-    "Count": "6500[5700â€“7300]",
     "Count_median": 6500,
     "Count_min": 5700,
     "Count_max": 7300,
@@ -2765,7 +2458,6 @@
   {
     "Country": "Slovakia",
     "Year": 2010,
-    "Count": "500[500â€“730]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 730,
@@ -2774,7 +2466,6 @@
   {
     "Country": "Slovenia",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2783,7 +2474,6 @@
   {
     "Country": "Somalia",
     "Year": 2010,
-    "Count": "17000[15000â€“20000]",
     "Count_median": 17000,
     "Count_min": 15000,
     "Count_max": 20000,
@@ -2792,7 +2482,6 @@
   {
     "Country": "South Africa",
     "Year": 2010,
-    "Count": "6100000[5500000â€“6600000]",
     "Count_median": 6100000,
     "Count_min": 5500000,
     "Count_max": 6600000,
@@ -2801,7 +2490,6 @@
   {
     "Country": "South Sudan",
     "Year": 2010,
-    "Count": "140000[110000â€“170000]",
     "Count_median": 140000,
     "Count_min": 110000,
     "Count_max": 170000,
@@ -2810,7 +2498,6 @@
   {
     "Country": "Spain",
     "Year": 2010,
-    "Count": "140000[120000â€“150000]",
     "Count_median": 140000,
     "Count_min": 120000,
     "Count_max": 150000,
@@ -2819,7 +2506,6 @@
   {
     "Country": "Sri Lanka",
     "Year": 2010,
-    "Count": "4000[3400â€“4700]",
     "Count_median": 4000,
     "Count_min": 3400,
     "Count_max": 4700,
@@ -2828,7 +2514,6 @@
   {
     "Country": "Sudan",
     "Year": 2010,
-    "Count": "43000[36000â€“51000]",
     "Count_median": 43000,
     "Count_min": 36000,
     "Count_max": 51000,
@@ -2837,7 +2522,6 @@
   {
     "Country": "Suriname",
     "Year": 2010,
-    "Count": "4600[3300â€“6200]",
     "Count_median": 4600,
     "Count_min": 3300,
     "Count_max": 6200,
@@ -2846,7 +2530,6 @@
   {
     "Country": "Sweden",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2855,7 +2538,6 @@
   {
     "Country": "Switzerland",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2864,7 +2546,6 @@
   {
     "Country": "Syrian Arab Republic",
     "Year": 2010,
-    "Count": "570[510â€“630]",
     "Count_median": 570,
     "Count_min": 510,
     "Count_max": 630,
@@ -2873,7 +2554,6 @@
   {
     "Country": "Tajikistan",
     "Year": 2010,
-    "Count": "9200[7500â€“11000]",
     "Count_median": 9200,
     "Count_min": 7500,
     "Count_max": 11000,
@@ -2882,7 +2562,6 @@
   {
     "Country": "Thailand",
     "Year": 2010,
-    "Count": "580000[490000â€“690000]",
     "Count_median": 580000,
     "Count_min": 490000,
     "Count_max": 690000,
@@ -2891,7 +2570,6 @@
   {
     "Country": "Timor-Leste",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2900,7 +2578,6 @@
   {
     "Country": "Togo",
     "Year": 2010,
-    "Count": "100000[96000â€“110000]",
     "Count_median": 100000,
     "Count_min": 96000,
     "Count_max": 110000,
@@ -2909,7 +2586,6 @@
   {
     "Country": "Trinidad and Tobago",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2918,7 +2594,6 @@
   {
     "Country": "Tunisia",
     "Year": 2010,
-    "Count": "1400[980â€“2200]",
     "Count_median": 1400,
     "Count_min": 980,
     "Count_max": 2200,
@@ -2927,7 +2602,6 @@
   {
     "Country": "Turkey",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2936,7 +2610,6 @@
   {
     "Country": "Turkmenistan",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2945,7 +2618,6 @@
   {
     "Country": "Uganda",
     "Year": 2010,
-    "Count": "1200000[1100000â€“1300000]",
     "Count_median": 1200000,
     "Count_min": 1100000,
     "Count_max": 1300000,
@@ -2954,7 +2626,6 @@
   {
     "Country": "Ukraine",
     "Year": 2010,
-    "Count": "230000[220000â€“250000]",
     "Count_median": 230000,
     "Count_min": 220000,
     "Count_max": 250000,
@@ -2963,7 +2634,6 @@
   {
     "Country": "United Arab Emirates",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2972,7 +2642,6 @@
   {
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -2981,7 +2650,6 @@
   {
     "Country": "United Republic of Tanzania",
     "Year": 2010,
-    "Count": "1300000[1100000â€“1400000]",
     "Count_median": 1300000,
     "Count_min": 1100000,
     "Count_max": 1400000,
@@ -2990,7 +2658,6 @@
   {
     "Country": "United States of America",
     "Year": 2010,
-    "Count": "990000[880000â€“1100000]",
     "Count_median": 990000,
     "Count_min": 880000,
     "Count_max": 1100000,
@@ -2999,7 +2666,6 @@
   {
     "Country": "Uruguay",
     "Year": 2010,
-    "Count": "9600[8000â€“11000]",
     "Count_median": 9600,
     "Count_min": 8000,
     "Count_max": 11000,
@@ -3008,7 +2674,6 @@
   {
     "Country": "Uzbekistan",
     "Year": 2010,
-    "Count": "30000[27000â€“32000]",
     "Count_median": 30000,
     "Count_min": 27000,
     "Count_max": 32000,
@@ -3017,7 +2682,6 @@
   {
     "Country": "Venezuela (Bolivarian Republic of)",
     "Year": 2010,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3026,7 +2690,6 @@
   {
     "Country": "Viet Nam",
     "Year": 2010,
-    "Count": "220000[180000â€“250000]",
     "Count_median": 220000,
     "Count_min": 180000,
     "Count_max": 250000,
@@ -3035,7 +2698,6 @@
   {
     "Country": "Yemen",
     "Year": 2010,
-    "Count": "5100[3500â€“7400]",
     "Count_median": 5100,
     "Count_min": 3500,
     "Count_max": 7400,
@@ -3044,7 +2706,6 @@
   {
     "Country": "Zambia",
     "Year": 2010,
-    "Count": "1000000[900000â€“1100000]",
     "Count_median": 1000000,
     "Count_min": 900000,
     "Count_max": 1100000,
@@ -3053,7 +2714,6 @@
   {
     "Country": "Zimbabwe",
     "Year": 2010,
-    "Count": "1200000[1100000â€“1400000]",
     "Count_median": 1200000,
     "Count_min": 1100000,
     "Count_max": 1400000,
@@ -3062,7 +2722,6 @@
   {
     "Country": "Afghanistan",
     "Year": 2005,
-    "Count": "2900[1700â€“5000]",
     "Count_median": 2900,
     "Count_min": 1700,
     "Count_max": 5000,
@@ -3071,7 +2730,6 @@
   {
     "Country": "Albania",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3080,7 +2738,6 @@
   {
     "Country": "Algeria",
     "Year": 2005,
-    "Count": "3700[3500â€“4000]",
     "Count_median": 3700,
     "Count_min": 3500,
     "Count_max": 4000,
@@ -3089,7 +2746,6 @@
   {
     "Country": "Angola",
     "Year": 2005,
-    "Count": "150000[120000â€“170000]",
     "Count_median": 150000,
     "Count_min": 120000,
     "Count_max": 170000,
@@ -3098,7 +2754,6 @@
   {
     "Country": "Argentina",
     "Year": 2005,
-    "Count": "85000[76000â€“94000]",
     "Count_median": 85000,
     "Count_min": 76000,
     "Count_max": 94000,
@@ -3107,7 +2762,6 @@
   {
     "Country": "Armenia",
     "Year": 2005,
-    "Count": "2700[2000â€“3500]",
     "Count_median": 2700,
     "Count_min": 2000,
     "Count_max": 3500,
@@ -3116,7 +2770,6 @@
   {
     "Country": "Australia",
     "Year": 2005,
-    "Count": "16000[14000â€“19000]",
     "Count_median": 16000,
     "Count_min": 14000,
     "Count_max": 19000,
@@ -3125,7 +2778,6 @@
   {
     "Country": "Austria",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3134,7 +2786,6 @@
   {
     "Country": "Azerbaijan",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3143,7 +2794,6 @@
   {
     "Country": "Bahamas",
     "Year": 2005,
-    "Count": "5100[4400â€“6000]",
     "Count_median": 5100,
     "Count_min": 4400,
     "Count_max": 6000,
@@ -3152,7 +2802,6 @@
   {
     "Country": "Bahrain",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3161,7 +2810,6 @@
   {
     "Country": "Bangladesh",
     "Year": 2005,
-    "Count": "4000[3500â€“4600]",
     "Count_median": 4000,
     "Count_min": 3500,
     "Count_max": 4600,
@@ -3170,7 +2818,6 @@
   {
     "Country": "Barbados",
     "Year": 2005,
-    "Count": "1700[1500â€“1900]",
     "Count_median": 1700,
     "Count_min": 1500,
     "Count_max": 1900,
@@ -3179,7 +2826,6 @@
   {
     "Country": "Belarus",
     "Year": 2005,
-    "Count": "5400[4500â€“6700]",
     "Count_median": 5400,
     "Count_min": 4500,
     "Count_max": 6700,
@@ -3188,7 +2834,6 @@
   {
     "Country": "Belgium",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3197,7 +2842,6 @@
   {
     "Country": "Belize",
     "Year": 2005,
-    "Count": "2800[2600â€“3100]",
     "Count_median": 2800,
     "Count_min": 2600,
     "Count_max": 3100,
@@ -3206,7 +2850,6 @@
   {
     "Country": "Benin",
     "Year": 2005,
-    "Count": "56000[37000â€“90000]",
     "Count_median": 56000,
     "Count_min": 37000,
     "Count_max": 90000,
@@ -3215,7 +2858,6 @@
   {
     "Country": "Bhutan",
     "Year": 2005,
-    "Count": "1100[500â€“2000]",
     "Count_median": 1100,
     "Count_min": 500,
     "Count_max": 2000,
@@ -3224,7 +2866,6 @@
   {
     "Country": "Bolivia (Plurinational State of)",
     "Year": 2005,
-    "Count": "26000[24000â€“28000]",
     "Count_median": 26000,
     "Count_min": 24000,
     "Count_max": 28000,
@@ -3233,7 +2874,6 @@
   {
     "Country": "Bosnia and Herzegovina",
     "Year": 2005,
-    "Count": "200[100â€“200]",
     "Count_median": 200,
     "Count_min": 100,
     "Count_max": 200,
@@ -3242,7 +2882,6 @@
   {
     "Country": "Botswana",
     "Year": 2005,
-    "Count": "310000[280000â€“330000]",
     "Count_median": 310000,
     "Count_min": 280000,
     "Count_max": 330000,
@@ -3251,7 +2890,6 @@
   {
     "Country": "Brazil",
     "Year": 2005,
-    "Count": "550000[420000â€“680000]",
     "Count_median": 550000,
     "Count_min": 420000,
     "Count_max": 680000,
@@ -3260,7 +2898,6 @@
   {
     "Country": "Brunei Darussalam",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3269,7 +2906,6 @@
   {
     "Country": "Bulgaria",
     "Year": 2005,
-    "Count": "980[910â€“1100]",
     "Count_median": 980,
     "Count_min": 910,
     "Count_max": 1100,
@@ -3278,7 +2914,6 @@
   {
     "Country": "Burkina Faso",
     "Year": 2005,
-    "Count": "120000[95000â€“140000]",
     "Count_median": 120000,
     "Count_min": 95000,
     "Count_max": 140000,
@@ -3287,7 +2922,6 @@
   {
     "Country": "Burundi",
     "Year": 2005,
-    "Count": "110000[88000â€“120000]",
     "Count_median": 110000,
     "Count_min": 88000,
     "Count_max": 120000,
@@ -3296,7 +2930,6 @@
   {
     "Country": "Cabo Verde",
     "Year": 2005,
-    "Count": "1800[1400â€“2700]",
     "Count_median": 1800,
     "Count_min": 1400,
     "Count_max": 2700,
@@ -3305,7 +2938,6 @@
   {
     "Country": "Cambodia",
     "Year": 2005,
-    "Count": "82000[70000â€“97000]",
     "Count_median": 82000,
     "Count_min": 70000,
     "Count_max": 97000,
@@ -3314,7 +2946,6 @@
   {
     "Country": "Cameroon",
     "Year": 2005,
-    "Count": "470000[430000â€“500000]",
     "Count_median": 470000,
     "Count_min": 430000,
     "Count_max": 500000,
@@ -3323,7 +2954,6 @@
   {
     "Country": "Canada",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3332,7 +2962,6 @@
   {
     "Country": "Central African Republic",
     "Year": 2005,
-    "Count": "150000[130000â€“170000]",
     "Count_median": 150000,
     "Count_min": 130000,
     "Count_max": 170000,
@@ -3341,7 +2970,6 @@
   {
     "Country": "Chad",
     "Year": 2005,
-    "Count": "88000[69000â€“110000]",
     "Count_median": 88000,
     "Count_min": 69000,
     "Count_max": 110000,
@@ -3350,7 +2978,6 @@
   {
     "Country": "Chile",
     "Year": 2005,
-    "Count": "25000[22000â€“27000]",
     "Count_median": 25000,
     "Count_min": 22000,
     "Count_max": 27000,
@@ -3359,7 +2986,6 @@
   {
     "Country": "China",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3368,7 +2994,6 @@
   {
     "Country": "Colombia",
     "Year": 2005,
-    "Count": "120000[98000â€“140000]",
     "Count_median": 120000,
     "Count_min": 98000,
     "Count_max": 140000,
@@ -3377,7 +3002,6 @@
   {
     "Country": "Comoros",
     "Year": 2005,
-    "Count": "100[100â€“200]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 200,
@@ -3386,7 +3010,6 @@
   {
     "Country": "Congo",
     "Year": 2005,
-    "Count": "77000[63000â€“90000]",
     "Count_median": 77000,
     "Count_min": 63000,
     "Count_max": 90000,
@@ -3395,7 +3018,6 @@
   {
     "Country": "Costa Rica",
     "Year": 2005,
-    "Count": "6500[5800â€“7200]",
     "Count_median": 6500,
     "Count_min": 5800,
     "Count_max": 7200,
@@ -3404,7 +3026,6 @@
   {
     "Country": "CÃ´te d'Ivoire",
     "Year": 2005,
-    "Count": "510000[410000â€“650000]",
     "Count_median": 510000,
     "Count_min": 410000,
     "Count_max": 650000,
@@ -3413,7 +3034,6 @@
   {
     "Country": "Croatia",
     "Year": 2005,
-    "Count": "710[630â€“800]",
     "Count_median": 710,
     "Count_min": 630,
     "Count_max": 800,
@@ -3422,7 +3042,6 @@
   {
     "Country": "Cuba",
     "Year": 2005,
-    "Count": "9000[6700â€“11000]",
     "Count_median": 9000,
     "Count_min": 6700,
     "Count_max": 11000,
@@ -3431,7 +3050,6 @@
   {
     "Country": "Cyprus",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3440,7 +3058,6 @@
   {
     "Country": "Czechia",
     "Year": 2005,
-    "Count": "970[820â€“1100]",
     "Count_median": 970,
     "Count_min": 820,
     "Count_max": 1100,
@@ -3449,7 +3066,6 @@
   {
     "Country": "Democratic People's Republic of Korea",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3458,7 +3074,6 @@
   {
     "Country": "Democratic Republic of the Congo",
     "Year": 2005,
-    "Count": "510000[430000â€“590000]",
     "Count_median": 510000,
     "Count_min": 430000,
     "Count_max": 590000,
@@ -3467,7 +3082,6 @@
   {
     "Country": "Denmark",
     "Year": 2005,
-    "Count": "4900[4500â€“5500]",
     "Count_median": 4900,
     "Count_min": 4500,
     "Count_max": 5500,
@@ -3476,7 +3090,6 @@
   {
     "Country": "Djibouti",
     "Year": 2005,
-    "Count": "11000[9000â€“13000]",
     "Count_median": 11000,
     "Count_min": 9000,
     "Count_max": 13000,
@@ -3485,7 +3098,6 @@
   {
     "Country": "Dominican Republic",
     "Year": 2005,
-    "Count": "79000[61000â€“100000]",
     "Count_median": 79000,
     "Count_min": 61000,
     "Count_max": 100000,
@@ -3494,7 +3106,6 @@
   {
     "Country": "Ecuador",
     "Year": 2005,
-    "Count": "29000[19000â€“49000]",
     "Count_median": 29000,
     "Count_min": 19000,
     "Count_max": 49000,
@@ -3503,7 +3114,6 @@
   {
     "Country": "Egypt",
     "Year": 2005,
-    "Count": "3200[2800â€“3500]",
     "Count_median": 3200,
     "Count_min": 2800,
     "Count_max": 3500,
@@ -3512,7 +3122,6 @@
   {
     "Country": "El Salvador",
     "Year": 2005,
-    "Count": "23000[17000â€“28000]",
     "Count_median": 23000,
     "Count_min": 17000,
     "Count_max": 28000,
@@ -3521,7 +3130,6 @@
   {
     "Country": "Equatorial Guinea",
     "Year": 2005,
-    "Count": "22000[17000â€“28000]",
     "Count_median": 22000,
     "Count_min": 17000,
     "Count_max": 28000,
@@ -3530,7 +3138,6 @@
   {
     "Country": "Eritrea",
     "Year": 2005,
-    "Count": "17000[13000â€“22000]",
     "Count_median": 17000,
     "Count_min": 13000,
     "Count_max": 22000,
@@ -3539,7 +3146,6 @@
   {
     "Country": "Estonia",
     "Year": 2005,
-    "Count": "5400[4600â€“6000]",
     "Count_median": 5400,
     "Count_min": 4600,
     "Count_max": 6000,
@@ -3548,7 +3154,6 @@
   {
     "Country": "Eswatini",
     "Year": 2005,
-    "Count": "130000[120000â€“140000]",
     "Count_median": 130000,
     "Count_min": 120000,
     "Count_max": 140000,
@@ -3557,7 +3162,6 @@
   {
     "Country": "Ethiopia",
     "Year": 2005,
-    "Count": "640000[490000â€“840000]",
     "Count_median": 640000,
     "Count_min": 490000,
     "Count_max": 840000,
@@ -3566,7 +3170,6 @@
   {
     "Country": "Fiji",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3575,7 +3178,6 @@
   {
     "Country": "Finland",
     "Year": 2005,
-    "Count": "1900[1500â€“2400]",
     "Count_median": 1900,
     "Count_min": 1500,
     "Count_max": 2400,
@@ -3584,7 +3186,6 @@
   {
     "Country": "France",
     "Year": 2005,
-    "Count": "110000[95000â€“130000]",
     "Count_median": 110000,
     "Count_min": 95000,
     "Count_max": 130000,
@@ -3593,7 +3194,6 @@
   {
     "Country": "Gabon",
     "Year": 2005,
-    "Count": "35000[27000â€“43000]",
     "Count_median": 35000,
     "Count_min": 27000,
     "Count_max": 43000,
@@ -3602,7 +3202,6 @@
   {
     "Country": "Gambia",
     "Year": 2005,
-    "Count": "15000[11000â€“19000]",
     "Count_median": 15000,
     "Count_min": 11000,
     "Count_max": 19000,
@@ -3611,7 +3210,6 @@
   {
     "Country": "Georgia",
     "Year": 2005,
-    "Count": "2800[2300â€“3400]",
     "Count_median": 2800,
     "Count_min": 2300,
     "Count_max": 3400,
@@ -3620,7 +3218,6 @@
   {
     "Country": "Germany",
     "Year": 2005,
-    "Count": "56000[46000â€“65000]",
     "Count_median": 56000,
     "Count_min": 46000,
     "Count_max": 65000,
@@ -3629,7 +3226,6 @@
   {
     "Country": "Ghana",
     "Year": 2005,
-    "Count": "280000[240000â€“320000]",
     "Count_median": 280000,
     "Count_min": 240000,
     "Count_max": 320000,
@@ -3638,7 +3234,6 @@
   {
     "Country": "Greece",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3647,7 +3242,6 @@
   {
     "Country": "Guatemala",
     "Year": 2005,
-    "Count": "48000[44000â€“51000]",
     "Count_median": 48000,
     "Count_min": 44000,
     "Count_max": 51000,
@@ -3656,7 +3250,6 @@
   {
     "Country": "Guinea",
     "Year": 2005,
-    "Count": "93000[81000â€“110000]",
     "Count_median": 93000,
     "Count_min": 81000,
     "Count_max": 110000,
@@ -3665,7 +3258,6 @@
   {
     "Country": "Guinea-Bissau",
     "Year": 2005,
-    "Count": "31000[28000â€“35000]",
     "Count_median": 31000,
     "Count_min": 28000,
     "Count_max": 35000,
@@ -3674,7 +3266,6 @@
   {
     "Country": "Guyana",
     "Year": 2005,
-    "Count": "5000[4400â€“5700]",
     "Count_median": 5000,
     "Count_min": 4400,
     "Count_max": 5700,
@@ -3683,7 +3274,6 @@
   {
     "Country": "Haiti",
     "Year": 2005,
-    "Count": "140000[120000â€“160000]",
     "Count_median": 140000,
     "Count_min": 120000,
     "Count_max": 160000,
@@ -3692,7 +3282,6 @@
   {
     "Country": "Honduras",
     "Year": 2005,
-    "Count": "31000[24000â€“38000]",
     "Count_median": 31000,
     "Count_min": 24000,
     "Count_max": 38000,
@@ -3701,7 +3290,6 @@
   {
     "Country": "Hungary",
     "Year": 2005,
-    "Count": "1200[1000â€“1300]",
     "Count_median": 1200,
     "Count_min": 1000,
     "Count_max": 1300,
@@ -3710,7 +3298,6 @@
   {
     "Country": "Iceland",
     "Year": 2005,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -3719,7 +3306,6 @@
   {
     "Country": "India",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3728,7 +3314,6 @@
   {
     "Country": "Indonesia",
     "Year": 2005,
-    "Count": "290000[260000â€“330000]",
     "Count_median": 290000,
     "Count_min": 260000,
     "Count_max": 330000,
@@ -3737,7 +3322,6 @@
   {
     "Country": "Iran (Islamic Republic of)",
     "Year": 2005,
-    "Count": "37000[25000â€“56000]",
     "Count_median": 37000,
     "Count_min": 25000,
     "Count_max": 56000,
@@ -3746,7 +3330,6 @@
   {
     "Country": "Ireland",
     "Year": 2005,
-    "Count": "3200[2800â€“3600]",
     "Count_median": 3200,
     "Count_min": 2800,
     "Count_max": 3600,
@@ -3755,7 +3338,6 @@
   {
     "Country": "Israel",
     "Year": 2005,
-    "Count": "4100[3700â€“4600]",
     "Count_median": 4100,
     "Count_min": 3700,
     "Count_max": 4600,
@@ -3764,7 +3346,6 @@
   {
     "Country": "Italy",
     "Year": 2005,
-    "Count": "89000[76000â€“100000]",
     "Count_median": 89000,
     "Count_min": 76000,
     "Count_max": 100000,
@@ -3773,7 +3354,6 @@
   {
     "Country": "Jamaica",
     "Year": 2005,
-    "Count": "38000[33000â€“42000]",
     "Count_median": 38000,
     "Count_min": 33000,
     "Count_max": 42000,
@@ -3782,7 +3362,6 @@
   {
     "Country": "Japan",
     "Year": 2005,
-    "Count": "12000[9700â€“14000]",
     "Count_median": 12000,
     "Count_min": 9700,
     "Count_max": 14000,
@@ -3791,7 +3370,6 @@
   {
     "Country": "Jordan",
     "Year": 2005,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -3800,7 +3378,6 @@
   {
     "Country": "Kazakhstan",
     "Year": 2005,
-    "Count": "4000[3800â€“4300]",
     "Count_median": 4000,
     "Count_min": 3800,
     "Count_max": 4300,
@@ -3809,7 +3386,6 @@
   {
     "Country": "Kenya",
     "Year": 2005,
-    "Count": "1500000[1300000â€“1900000]",
     "Count_median": 1500000,
     "Count_min": 1300000,
     "Count_max": 1900000,
@@ -3818,7 +3394,6 @@
   {
     "Country": "Kuwait",
     "Year": 2005,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -3827,7 +3402,6 @@
   {
     "Country": "Kyrgyzstan",
     "Year": 2005,
-    "Count": "1500[1300â€“1900]",
     "Count_median": 1500,
     "Count_min": 1300,
     "Count_max": 1900,
@@ -3836,7 +3410,6 @@
   {
     "Country": "Lao People's Democratic Republic",
     "Year": 2005,
-    "Count": "6700[6000â€“7500]",
     "Count_median": 6700,
     "Count_min": 6000,
     "Count_max": 7500,
@@ -3845,7 +3418,6 @@
   {
     "Country": "Latvia",
     "Year": 2005,
-    "Count": "3200[2900â€“3600]",
     "Count_median": 3200,
     "Count_min": 2900,
     "Count_max": 3600,
@@ -3854,7 +3426,6 @@
   {
     "Country": "Lebanon",
     "Year": 2005,
-    "Count": "1300[1100â€“1400]",
     "Count_median": 1300,
     "Count_min": 1100,
     "Count_max": 1400,
@@ -3863,7 +3434,6 @@
   {
     "Country": "Lesotho",
     "Year": 2005,
-    "Count": "280000[260000â€“300000]",
     "Count_median": 280000,
     "Count_min": 260000,
     "Count_max": 300000,
@@ -3872,7 +3442,6 @@
   {
     "Country": "Liberia",
     "Year": 2005,
-    "Count": "41000[38000â€“45000]",
     "Count_median": 41000,
     "Count_min": 38000,
     "Count_max": 45000,
@@ -3881,7 +3450,6 @@
   {
     "Country": "Libya",
     "Year": 2005,
-    "Count": "2900[2700â€“3100]",
     "Count_median": 2900,
     "Count_min": 2700,
     "Count_max": 3100,
@@ -3890,7 +3458,6 @@
   {
     "Country": "Lithuania",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3899,7 +3466,6 @@
   {
     "Country": "Luxembourg",
     "Year": 2005,
-    "Count": "500[500â€“540]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 540,
@@ -3908,7 +3474,6 @@
   {
     "Country": "Madagascar",
     "Year": 2005,
-    "Count": "19000[15000â€“23000]",
     "Count_median": 19000,
     "Count_min": 15000,
     "Count_max": 23000,
@@ -3917,7 +3482,6 @@
   {
     "Country": "Malawi",
     "Year": 2005,
-    "Count": "820000[720000â€“900000]",
     "Count_median": 820000,
     "Count_min": 720000,
     "Count_max": 900000,
@@ -3926,7 +3490,6 @@
   {
     "Country": "Malaysia",
     "Year": 2005,
-    "Count": "66000[57000â€“77000]",
     "Count_median": 66000,
     "Count_min": 57000,
     "Count_max": 77000,
@@ -3935,7 +3498,6 @@
   {
     "Country": "Maldives",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3944,7 +3506,6 @@
   {
     "Country": "Mali",
     "Year": 2005,
-    "Count": "110000[91000â€“130000]",
     "Count_median": 110000,
     "Count_min": 91000,
     "Count_max": 130000,
@@ -3953,7 +3514,6 @@
   {
     "Country": "Malta",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -3962,7 +3522,6 @@
   {
     "Country": "Mauritania",
     "Year": 2005,
-    "Count": "7500[6400â€“8800]",
     "Count_median": 7500,
     "Count_min": 6400,
     "Count_max": 8800,
@@ -3971,7 +3530,6 @@
   {
     "Country": "Mauritius",
     "Year": 2005,
-    "Count": "8000[6100â€“11000]",
     "Count_median": 8000,
     "Count_min": 6100,
     "Count_max": 11000,
@@ -3980,7 +3538,6 @@
   {
     "Country": "Mexico",
     "Year": 2005,
-    "Count": "150000[120000â€“200000]",
     "Count_median": 150000,
     "Count_min": 120000,
     "Count_max": 200000,
@@ -3989,7 +3546,6 @@
   {
     "Country": "Mongolia",
     "Year": 2005,
-    "Count": "500[200â€“500]",
     "Count_median": 500,
     "Count_min": 200,
     "Count_max": 500,
@@ -3998,7 +3554,6 @@
   {
     "Country": "Montenegro",
     "Year": 2005,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -4007,7 +3562,6 @@
   {
     "Country": "Morocco",
     "Year": 2005,
-    "Count": "13000[11000â€“18000]",
     "Count_median": 13000,
     "Count_min": 11000,
     "Count_max": 18000,
@@ -4016,7 +3570,6 @@
   {
     "Country": "Mozambique",
     "Year": 2005,
-    "Count": "1200000[980000â€“1500000]",
     "Count_median": 1200000,
     "Count_min": 980000,
     "Count_max": 1500000,
@@ -4025,7 +3578,6 @@
   {
     "Country": "Myanmar",
     "Year": 2005,
-    "Count": "210000[180000â€“240000]",
     "Count_median": 210000,
     "Count_min": 180000,
     "Count_max": 240000,
@@ -4034,7 +3586,6 @@
   {
     "Country": "Namibia",
     "Year": 2005,
-    "Count": "160000[140000â€“170000]",
     "Count_median": 160000,
     "Count_min": 140000,
     "Count_max": 170000,
@@ -4043,7 +3594,6 @@
   {
     "Country": "Nepal",
     "Year": 2005,
-    "Count": "29000[25000â€“33000]",
     "Count_median": 29000,
     "Count_min": 25000,
     "Count_max": 33000,
@@ -4052,7 +3602,6 @@
   {
     "Country": "Netherlands",
     "Year": 2005,
-    "Count": "16000[15000â€“17000]",
     "Count_median": 16000,
     "Count_min": 15000,
     "Count_max": 17000,
@@ -4061,7 +3610,6 @@
   {
     "Country": "New Zealand",
     "Year": 2005,
-    "Count": "1800[1600â€“2100]",
     "Count_median": 1800,
     "Count_min": 1600,
     "Count_max": 2100,
@@ -4070,7 +3618,6 @@
   {
     "Country": "Nicaragua",
     "Year": 2005,
-    "Count": "6100[4600â€“8300]",
     "Count_median": 6100,
     "Count_min": 4600,
     "Count_max": 8300,
@@ -4079,7 +3626,6 @@
   {
     "Country": "Niger",
     "Year": 2005,
-    "Count": "40000[34000â€“46000]",
     "Count_median": 40000,
     "Count_min": 34000,
     "Count_max": 46000,
@@ -4088,7 +3634,6 @@
   {
     "Country": "Nigeria",
     "Year": 2005,
-    "Count": "1400000[1000000â€“1900000]",
     "Count_median": 1400000,
     "Count_min": 1000000,
     "Count_max": 1900000,
@@ -4097,7 +3642,6 @@
   {
     "Country": "Norway",
     "Year": 2005,
-    "Count": "3000[2700â€“3300]",
     "Count_median": 3000,
     "Count_min": 2700,
     "Count_max": 3300,
@@ -4106,7 +3650,6 @@
   {
     "Country": "Oman",
     "Year": 2005,
-    "Count": "1700[1600â€“1900]",
     "Count_median": 1700,
     "Count_min": 1600,
     "Count_max": 1900,
@@ -4115,7 +3658,6 @@
   {
     "Country": "Pakistan",
     "Year": 2005,
-    "Count": "12000[10000â€“14000]",
     "Count_median": 12000,
     "Count_min": 10000,
     "Count_max": 14000,
@@ -4124,7 +3666,6 @@
   {
     "Country": "Panama",
     "Year": 2005,
-    "Count": "16000[14000â€“17000]",
     "Count_median": 16000,
     "Count_min": 14000,
     "Count_max": 17000,
@@ -4133,7 +3674,6 @@
   {
     "Country": "Papua New Guinea",
     "Year": 2005,
-    "Count": "38000[34000â€“42000]",
     "Count_median": 38000,
     "Count_min": 34000,
     "Count_max": 42000,
@@ -4142,7 +3682,6 @@
   {
     "Country": "Paraguay",
     "Year": 2005,
-    "Count": "19000[14000â€“25000]",
     "Count_median": 19000,
     "Count_min": 14000,
     "Count_max": 25000,
@@ -4151,7 +3690,6 @@
   {
     "Country": "Peru",
     "Year": 2005,
-    "Count": "65000[50000â€“91000]",
     "Count_median": 65000,
     "Count_min": 50000,
     "Count_max": 91000,
@@ -4160,7 +3698,6 @@
   {
     "Country": "Philippines",
     "Year": 2005,
-    "Count": "3700[3100â€“4300]",
     "Count_median": 3700,
     "Count_min": 3100,
     "Count_max": 4300,
@@ -4169,7 +3706,6 @@
   {
     "Country": "Poland",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4178,7 +3714,6 @@
   {
     "Country": "Portugal",
     "Year": 2005,
-    "Count": "37000[33000â€“42000]",
     "Count_median": 37000,
     "Count_min": 33000,
     "Count_max": 42000,
@@ -4187,7 +3722,6 @@
   {
     "Country": "Qatar",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4196,7 +3730,6 @@
   {
     "Country": "Republic of Korea",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4205,7 +3738,6 @@
   {
     "Country": "Republic of Moldova",
     "Year": 2005,
-    "Count": "12000[9600â€“16000]",
     "Count_median": 12000,
     "Count_min": 9600,
     "Count_max": 16000,
@@ -4214,7 +3746,6 @@
   {
     "Country": "Republic of North Macedonia",
     "Year": 2005,
-    "Count": "100[100â€“200]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 200,
@@ -4223,7 +3754,6 @@
   {
     "Country": "Romania",
     "Year": 2005,
-    "Count": "11000[9800â€“12000]",
     "Count_median": 11000,
     "Count_min": 9800,
     "Count_max": 12000,
@@ -4232,7 +3762,6 @@
   {
     "Country": "Russian Federation",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4241,7 +3770,6 @@
   {
     "Country": "Rwanda",
     "Year": 2005,
-    "Count": "220000[190000â€“250000]",
     "Count_median": 220000,
     "Count_min": 190000,
     "Count_max": 250000,
@@ -4250,7 +3778,6 @@
   {
     "Country": "Saudi Arabia",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4259,7 +3786,6 @@
   {
     "Country": "Senegal",
     "Year": 2005,
-    "Count": "42000[38000â€“48000]",
     "Count_median": 42000,
     "Count_min": 38000,
     "Count_max": 48000,
@@ -4268,7 +3794,6 @@
   {
     "Country": "Serbia",
     "Year": 2005,
-    "Count": "1100[750â€“1500]",
     "Count_median": 1100,
     "Count_min": 750,
     "Count_max": 1500,
@@ -4277,7 +3802,6 @@
   {
     "Country": "Sierra Leone",
     "Year": 2005,
-    "Count": "51000[42000â€“61000]",
     "Count_median": 51000,
     "Count_min": 42000,
     "Count_max": 61000,
@@ -4286,7 +3810,6 @@
   {
     "Country": "Singapore",
     "Year": 2005,
-    "Count": "4100[3500â€“4700]",
     "Count_median": 4100,
     "Count_min": 3500,
     "Count_max": 4700,
@@ -4295,7 +3818,6 @@
   {
     "Country": "Slovakia",
     "Year": 2005,
-    "Count": "500[200â€“500]",
     "Count_median": 500,
     "Count_min": 200,
     "Count_max": 500,
@@ -4304,7 +3826,6 @@
   {
     "Country": "Slovenia",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4313,7 +3834,6 @@
   {
     "Country": "Somalia",
     "Year": 2005,
-    "Count": "20000[18000â€“23000]",
     "Count_median": 20000,
     "Count_min": 18000,
     "Count_max": 23000,
@@ -4322,7 +3842,6 @@
   {
     "Country": "South Africa",
     "Year": 2005,
-    "Count": "5000000[4400000â€“5400000]",
     "Count_median": 5000000,
     "Count_min": 4400000,
     "Count_max": 5400000,
@@ -4331,7 +3850,6 @@
   {
     "Country": "South Sudan",
     "Year": 2005,
-    "Count": "120000[89000â€“150000]",
     "Count_median": 120000,
     "Count_min": 89000,
     "Count_max": 150000,
@@ -4340,7 +3858,6 @@
   {
     "Country": "Spain",
     "Year": 2005,
-    "Count": "120000[100000â€“130000]",
     "Count_median": 120000,
     "Count_min": 100000,
     "Count_max": 130000,
@@ -4349,7 +3866,6 @@
   {
     "Country": "Sri Lanka",
     "Year": 2005,
-    "Count": "3600[3100â€“4100]",
     "Count_median": 3600,
     "Count_min": 3100,
     "Count_max": 4100,
@@ -4358,7 +3874,6 @@
   {
     "Country": "Sudan",
     "Year": 2005,
-    "Count": "29000[20000â€“40000]",
     "Count_median": 29000,
     "Count_min": 20000,
     "Count_max": 40000,
@@ -4367,7 +3882,6 @@
   {
     "Country": "Suriname",
     "Year": 2005,
-    "Count": "4000[3000â€“5600]",
     "Count_median": 4000,
     "Count_min": 3000,
     "Count_max": 5600,
@@ -4376,7 +3890,6 @@
   {
     "Country": "Sweden",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4385,7 +3898,6 @@
   {
     "Country": "Switzerland",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4394,7 +3906,6 @@
   {
     "Country": "Syrian Arab Republic",
     "Year": 2005,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -4403,7 +3914,6 @@
   {
     "Country": "Tajikistan",
     "Year": 2005,
-    "Count": "5200[3700â€“6900]",
     "Count_median": 5200,
     "Count_min": 3700,
     "Count_max": 6900,
@@ -4412,7 +3922,6 @@
   {
     "Country": "Thailand",
     "Year": 2005,
-    "Count": "630000[510000â€“780000]",
     "Count_median": 630000,
     "Count_min": 510000,
     "Count_max": 780000,
@@ -4421,7 +3930,6 @@
   {
     "Country": "Timor-Leste",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4430,7 +3938,6 @@
   {
     "Country": "Togo",
     "Year": 2005,
-    "Count": "100000[94000â€“110000]",
     "Count_median": 100000,
     "Count_min": 94000,
     "Count_max": 110000,
@@ -4439,7 +3946,6 @@
   {
     "Country": "Trinidad and Tobago",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4448,7 +3954,6 @@
   {
     "Country": "Tunisia",
     "Year": 2005,
-    "Count": "640[500â€“1100]",
     "Count_median": 640,
     "Count_min": 500,
     "Count_max": 1100,
@@ -4457,7 +3962,6 @@
   {
     "Country": "Turkey",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4466,7 +3970,6 @@
   {
     "Country": "Turkmenistan",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4475,7 +3978,6 @@
   {
     "Country": "Uganda",
     "Year": 2005,
-    "Count": "1100000[1000000â€“1100000]",
     "Count_median": 1100000,
     "Count_min": 1000000,
     "Count_max": 1100000,
@@ -4484,7 +3986,6 @@
   {
     "Country": "Ukraine",
     "Year": 2005,
-    "Count": "230000[220000â€“240000]",
     "Count_median": 230000,
     "Count_min": 220000,
     "Count_max": 240000,
@@ -4493,7 +3994,6 @@
   {
     "Country": "United Arab Emirates",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4502,7 +4002,6 @@
   {
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4511,7 +4010,6 @@
   {
     "Country": "United Republic of Tanzania",
     "Year": 2005,
-    "Count": "1200000[1000000â€“1300000]",
     "Count_median": 1200000,
     "Count_min": 1000000,
     "Count_max": 1300000,
@@ -4520,7 +4018,6 @@
   {
     "Country": "United States of America",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4529,7 +4026,6 @@
   {
     "Country": "Uruguay",
     "Year": 2005,
-    "Count": "7600[6200â€“10000]",
     "Count_median": 7600,
     "Count_min": 6200,
     "Count_max": 10000,
@@ -4538,7 +4034,6 @@
   {
     "Country": "Uzbekistan",
     "Year": 2005,
-    "Count": "21000[19000â€“23000]",
     "Count_median": 21000,
     "Count_min": 19000,
     "Count_max": 23000,
@@ -4547,7 +4042,6 @@
   {
     "Country": "Venezuela (Bolivarian Republic of)",
     "Year": 2005,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4556,7 +4050,6 @@
   {
     "Country": "Viet Nam",
     "Year": 2005,
-    "Count": "180000[160000â€“210000]",
     "Count_median": 180000,
     "Count_min": 160000,
     "Count_max": 210000,
@@ -4565,7 +4058,6 @@
   {
     "Country": "Yemen",
     "Year": 2005,
-    "Count": "2400[1500â€“4000]",
     "Count_median": 2400,
     "Count_min": 1500,
     "Count_max": 4000,
@@ -4574,7 +4066,6 @@
   {
     "Country": "Zambia",
     "Year": 2005,
-    "Count": "920000[820000â€“1000000]",
     "Count_median": 920000,
     "Count_min": 820000,
     "Count_max": 1000000,
@@ -4583,7 +4074,6 @@
   {
     "Country": "Zimbabwe",
     "Year": 2005,
-    "Count": "1400000[1200000â€“1600000]",
     "Count_median": 1400000,
     "Count_min": 1200000,
     "Count_max": 1600000,
@@ -4592,7 +4082,6 @@
   {
     "Country": "Afghanistan",
     "Year": 2000,
-    "Count": "1600[1000â€“3500]",
     "Count_median": 1600,
     "Count_min": 1000,
     "Count_max": 3500,
@@ -4601,7 +4090,6 @@
   {
     "Country": "Albania",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4610,7 +4098,6 @@
   {
     "Country": "Algeria",
     "Year": 2000,
-    "Count": "1900[1700â€“2000]",
     "Count_median": 1900,
     "Count_min": 1700,
     "Count_max": 2000,
@@ -4619,7 +4106,6 @@
   {
     "Country": "Angola",
     "Year": 2000,
-    "Count": "87000[72000â€“110000]",
     "Count_median": 87000,
     "Count_min": 72000,
     "Count_max": 110000,
@@ -4628,7 +4114,6 @@
   {
     "Country": "Argentina",
     "Year": 2000,
-    "Count": "64000[55000â€“71000]",
     "Count_median": 64000,
     "Count_min": 55000,
     "Count_max": 71000,
@@ -4637,7 +4122,6 @@
   {
     "Country": "Armenia",
     "Year": 2000,
-    "Count": "950[580â€“1600]",
     "Count_median": 950,
     "Count_min": 580,
     "Count_max": 1600,
@@ -4646,7 +4130,6 @@
   {
     "Country": "Australia",
     "Year": 2000,
-    "Count": "13000[11000â€“15000]",
     "Count_median": 13000,
     "Count_min": 11000,
     "Count_max": 15000,
@@ -4655,7 +4138,6 @@
   {
     "Country": "Austria",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4664,7 +4146,6 @@
   {
     "Country": "Azerbaijan",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4673,7 +4154,6 @@
   {
     "Country": "Bahamas",
     "Year": 2000,
-    "Count": "5100[4400â€“5900]",
     "Count_median": 5100,
     "Count_min": 4400,
     "Count_max": 5900,
@@ -4682,7 +4162,6 @@
   {
     "Country": "Bahrain",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4691,7 +4170,6 @@
   {
     "Country": "Bangladesh",
     "Year": 2000,
-    "Count": "940[800â€“1100]",
     "Count_median": 940,
     "Count_min": 800,
     "Count_max": 1100,
@@ -4700,7 +4178,6 @@
   {
     "Country": "Barbados",
     "Year": 2000,
-    "Count": "1100[1000â€“1300]",
     "Count_median": 1100,
     "Count_min": 1000,
     "Count_max": 1300,
@@ -4709,7 +4186,6 @@
   {
     "Country": "Belarus",
     "Year": 2000,
-    "Count": "1400[1100â€“1900]",
     "Count_median": 1400,
     "Count_min": 1100,
     "Count_max": 1900,
@@ -4718,7 +4194,6 @@
   {
     "Country": "Belgium",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4727,7 +4202,6 @@
   {
     "Country": "Belize",
     "Year": 2000,
-    "Count": "1700[1600â€“1800]",
     "Count_median": 1700,
     "Count_min": 1600,
     "Count_max": 1800,
@@ -4736,7 +4210,6 @@
   {
     "Country": "Benin",
     "Year": 2000,
-    "Count": "47000[31000â€“75000]",
     "Count_median": 47000,
     "Count_min": 31000,
     "Count_max": 75000,
@@ -4745,7 +4218,6 @@
   {
     "Country": "Bhutan",
     "Year": 2000,
-    "Count": "530[200â€“970]",
     "Count_median": 530,
     "Count_min": 200,
     "Count_max": 970,
@@ -4754,7 +4226,6 @@
   {
     "Country": "Bolivia (Plurinational State of)",
     "Year": 2000,
-    "Count": "21000[20000â€“23000]",
     "Count_median": 21000,
     "Count_min": 20000,
     "Count_max": 23000,
@@ -4763,7 +4234,6 @@
   {
     "Country": "Bosnia and Herzegovina",
     "Year": 2000,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -4772,7 +4242,6 @@
   {
     "Country": "Botswana",
     "Year": 2000,
-    "Count": "280000[270000â€“300000]",
     "Count_median": 280000,
     "Count_min": 270000,
     "Count_max": 300000,
@@ -4781,7 +4250,6 @@
   {
     "Country": "Brazil",
     "Year": 2000,
-    "Count": "410000[320000â€“510000]",
     "Count_median": 410000,
     "Count_min": 320000,
     "Count_max": 510000,
@@ -4790,7 +4258,6 @@
   {
     "Country": "Brunei Darussalam",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4799,7 +4266,6 @@
   {
     "Country": "Bulgaria",
     "Year": 2000,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -4808,7 +4274,6 @@
   {
     "Country": "Burkina Faso",
     "Year": 2000,
-    "Count": "140000[110000â€“170000]",
     "Count_median": 140000,
     "Count_min": 110000,
     "Count_max": 170000,
@@ -4817,7 +4282,6 @@
   {
     "Country": "Burundi",
     "Year": 2000,
-    "Count": "130000[110000â€“150000]",
     "Count_median": 130000,
     "Count_min": 110000,
     "Count_max": 150000,
@@ -4826,7 +4290,6 @@
   {
     "Country": "Cabo Verde",
     "Year": 2000,
-    "Count": "1600[1200â€“2500]",
     "Count_median": 1600,
     "Count_min": 1200,
     "Count_max": 2500,
@@ -4835,7 +4298,6 @@
   {
     "Country": "Cambodia",
     "Year": 2000,
-    "Count": "81000[73000â€“91000]",
     "Count_median": 81000,
     "Count_min": 73000,
     "Count_max": 91000,
@@ -4844,7 +4306,6 @@
   {
     "Country": "Cameroon",
     "Year": 2000,
-    "Count": "370000[350000â€“410000]",
     "Count_median": 370000,
     "Count_min": 350000,
     "Count_max": 410000,
@@ -4853,7 +4314,6 @@
   {
     "Country": "Canada",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4862,7 +4322,6 @@
   {
     "Country": "Central African Republic",
     "Year": 2000,
-    "Count": "160000[130000â€“190000]",
     "Count_median": 160000,
     "Count_min": 130000,
     "Count_max": 190000,
@@ -4871,7 +4330,6 @@
   {
     "Country": "Chad",
     "Year": 2000,
-    "Count": "80000[60000â€“100000]",
     "Count_median": 80000,
     "Count_min": 60000,
     "Count_max": 100000,
@@ -4880,7 +4338,6 @@
   {
     "Country": "Chile",
     "Year": 2000,
-    "Count": "14000[13000â€“16000]",
     "Count_median": 14000,
     "Count_min": 13000,
     "Count_max": 16000,
@@ -4889,7 +4346,6 @@
   {
     "Country": "China",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4898,7 +4354,6 @@
   {
     "Country": "Colombia",
     "Year": 2000,
-    "Count": "110000[91000â€“130000]",
     "Count_median": 110000,
     "Count_min": 91000,
     "Count_max": 130000,
@@ -4907,7 +4362,6 @@
   {
     "Country": "Comoros",
     "Year": 2000,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -4916,7 +4370,6 @@
   {
     "Country": "Congo",
     "Year": 2000,
-    "Count": "80000[64000â€“96000]",
     "Count_median": 80000,
     "Count_min": 64000,
     "Count_max": 96000,
@@ -4925,7 +4378,6 @@
   {
     "Country": "Costa Rica",
     "Year": 2000,
-    "Count": "4300[3700â€“4700]",
     "Count_median": 4300,
     "Count_min": 3700,
     "Count_max": 4700,
@@ -4934,7 +4386,6 @@
   {
     "Country": "CÃ´te d'Ivoire",
     "Year": 2000,
-    "Count": "590000[470000â€“740000]",
     "Count_median": 590000,
     "Count_min": 470000,
     "Count_max": 740000,
@@ -4943,7 +4394,6 @@
   {
     "Country": "Croatia",
     "Year": 2000,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -4952,7 +4402,6 @@
   {
     "Country": "Cuba",
     "Year": 2000,
-    "Count": "4100[2900â€“5000]",
     "Count_median": 4100,
     "Count_min": 2900,
     "Count_max": 5000,
@@ -4961,7 +4410,6 @@
   {
     "Country": "Cyprus",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4970,7 +4418,6 @@
   {
     "Country": "Czechia",
     "Year": 2000,
-    "Count": "510[500â€“580]",
     "Count_median": 510,
     "Count_min": 500,
     "Count_max": 580,
@@ -4979,7 +4426,6 @@
   {
     "Country": "Democratic People's Republic of Korea",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -4988,7 +4434,6 @@
   {
     "Country": "Democratic Republic of the Congo",
     "Year": 2000,
-    "Count": "540000[470000â€“610000]",
     "Count_median": 540000,
     "Count_min": 470000,
     "Count_max": 610000,
@@ -4997,7 +4442,6 @@
   {
     "Country": "Denmark",
     "Year": 2000,
-    "Count": "4000[3600â€“4600]",
     "Count_median": 4000,
     "Count_min": 3600,
     "Count_max": 4600,
@@ -5006,7 +4450,6 @@
   {
     "Country": "Djibouti",
     "Year": 2000,
-    "Count": "9400[7200â€“12000]",
     "Count_median": 9400,
     "Count_min": 7200,
     "Count_max": 12000,
@@ -5015,7 +4458,6 @@
   {
     "Country": "Dominican Republic",
     "Year": 2000,
-    "Count": "85000[62000â€“120000]",
     "Count_median": 85000,
     "Count_min": 62000,
     "Count_max": 120000,
@@ -5024,7 +4466,6 @@
   {
     "Country": "Ecuador",
     "Year": 2000,
-    "Count": "26000[15000â€“46000]",
     "Count_median": 26000,
     "Count_min": 15000,
     "Count_max": 46000,
@@ -5033,7 +4474,6 @@
   {
     "Country": "Egypt",
     "Year": 2000,
-    "Count": "1500[1400â€“1600]",
     "Count_median": 1500,
     "Count_min": 1400,
     "Count_max": 1600,
@@ -5042,7 +4482,6 @@
   {
     "Country": "El Salvador",
     "Year": 2000,
-    "Count": "18000[14000â€“23000]",
     "Count_median": 18000,
     "Count_min": 14000,
     "Count_max": 23000,
@@ -5051,7 +4490,6 @@
   {
     "Country": "Equatorial Guinea",
     "Year": 2000,
-    "Count": "13000[9200â€“18000]",
     "Count_median": 13000,
     "Count_min": 9200,
     "Count_max": 18000,
@@ -5060,7 +4498,6 @@
   {
     "Country": "Eritrea",
     "Year": 2000,
-    "Count": "16000[12000â€“20000]",
     "Count_median": 16000,
     "Count_min": 12000,
     "Count_max": 20000,
@@ -5069,7 +4506,6 @@
   {
     "Country": "Estonia",
     "Year": 2000,
-    "Count": "3400[2900â€“3900]",
     "Count_median": 3400,
     "Count_min": 2900,
     "Count_max": 3900,
@@ -5078,7 +4514,6 @@
   {
     "Country": "Eswatini",
     "Year": 2000,
-    "Count": "110000[98000â€“120000]",
     "Count_median": 110000,
     "Count_min": 98000,
     "Count_max": 120000,
@@ -5087,7 +4522,6 @@
   {
     "Country": "Ethiopia",
     "Year": 2000,
-    "Count": "750000[570000â€“980000]",
     "Count_median": 750000,
     "Count_min": 570000,
     "Count_max": 980000,
@@ -5096,7 +4530,6 @@
   {
     "Country": "Fiji",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5105,7 +4538,6 @@
   {
     "Country": "Finland",
     "Year": 2000,
-    "Count": "1100[850â€“1400]",
     "Count_median": 1100,
     "Count_min": 850,
     "Count_max": 1400,
@@ -5114,7 +4546,6 @@
   {
     "Country": "France",
     "Year": 2000,
-    "Count": "82000[69000â€“97000]",
     "Count_median": 82000,
     "Count_min": 69000,
     "Count_max": 97000,
@@ -5123,7 +4554,6 @@
   {
     "Country": "Gabon",
     "Year": 2000,
-    "Count": "28000[20000â€“38000]",
     "Count_median": 28000,
     "Count_min": 20000,
     "Count_max": 38000,
@@ -5132,7 +4562,6 @@
   {
     "Country": "Gambia",
     "Year": 2000,
-    "Count": "9900[7200â€“13000]",
     "Count_median": 9900,
     "Count_min": 7200,
     "Count_max": 13000,
@@ -5141,7 +4570,6 @@
   {
     "Country": "Georgia",
     "Year": 2000,
-    "Count": "980[720â€“1300]",
     "Count_median": 980,
     "Count_min": 720,
     "Count_max": 1300,
@@ -5150,7 +4578,6 @@
   {
     "Country": "Germany",
     "Year": 2000,
-    "Count": "45000[37000â€“54000]",
     "Count_median": 45000,
     "Count_min": 37000,
     "Count_max": 54000,
@@ -5159,7 +4586,6 @@
   {
     "Country": "Ghana",
     "Year": 2000,
-    "Count": "270000[240000â€“300000]",
     "Count_median": 270000,
     "Count_min": 240000,
     "Count_max": 300000,
@@ -5168,7 +4594,6 @@
   {
     "Country": "Greece",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5177,7 +4602,6 @@
   {
     "Country": "Guatemala",
     "Year": 2000,
-    "Count": "44000[41000â€“47000]",
     "Count_median": 44000,
     "Count_min": 41000,
     "Count_max": 47000,
@@ -5186,7 +4610,6 @@
   {
     "Country": "Guinea",
     "Year": 2000,
-    "Count": "83000[67000â€“100000]",
     "Count_median": 83000,
     "Count_min": 67000,
     "Count_max": 100000,
@@ -5195,7 +4618,6 @@
   {
     "Country": "Guinea-Bissau",
     "Year": 2000,
-    "Count": "22000[20000â€“25000]",
     "Count_median": 22000,
     "Count_min": 20000,
     "Count_max": 25000,
@@ -5204,7 +4626,6 @@
   {
     "Country": "Guyana",
     "Year": 2000,
-    "Count": "2300[1600â€“3100]",
     "Count_median": 2300,
     "Count_min": 1600,
     "Count_max": 3100,
@@ -5213,7 +4634,6 @@
   {
     "Country": "Haiti",
     "Year": 2000,
-    "Count": "150000[130000â€“180000]",
     "Count_median": 150000,
     "Count_min": 130000,
     "Count_max": 180000,
@@ -5222,7 +4642,6 @@
   {
     "Country": "Honduras",
     "Year": 2000,
-    "Count": "40000[34000â€“49000]",
     "Count_median": 40000,
     "Count_min": 34000,
     "Count_max": 49000,
@@ -5231,7 +4650,6 @@
   {
     "Country": "Hungary",
     "Year": 2000,
-    "Count": "830[700â€“950]",
     "Count_median": 830,
     "Count_min": 700,
     "Count_max": 950,
@@ -5240,7 +4658,6 @@
   {
     "Country": "Iceland",
     "Year": 2000,
-    "Count": "100[100â€“200]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 200,
@@ -5249,7 +4666,6 @@
   {
     "Country": "India",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5258,7 +4674,6 @@
   {
     "Country": "Indonesia",
     "Year": 2000,
-    "Count": "80000[72000â€“89000]",
     "Count_median": 80000,
     "Count_min": 72000,
     "Count_max": 89000,
@@ -5267,7 +4682,6 @@
   {
     "Country": "Iran (Islamic Republic of)",
     "Year": 2000,
-    "Count": "16000[7900â€“35000]",
     "Count_median": 16000,
     "Count_min": 7900,
     "Count_max": 35000,
@@ -5276,7 +4690,6 @@
   {
     "Country": "Ireland",
     "Year": 2000,
-    "Count": "1900[1700â€“2200]",
     "Count_median": 1900,
     "Count_min": 1700,
     "Count_max": 2200,
@@ -5285,7 +4698,6 @@
   {
     "Country": "Israel",
     "Year": 2000,
-    "Count": "2700[2400â€“3100]",
     "Count_median": 2700,
     "Count_min": 2400,
     "Count_max": 3100,
@@ -5294,7 +4706,6 @@
   {
     "Country": "Italy",
     "Year": 2000,
-    "Count": "68000[57000â€“78000]",
     "Count_median": 68000,
     "Count_min": 57000,
     "Count_max": 78000,
@@ -5303,7 +4714,6 @@
   {
     "Country": "Jamaica",
     "Year": 2000,
-    "Count": "41000[37000â€“46000]",
     "Count_median": 41000,
     "Count_min": 37000,
     "Count_max": 46000,
@@ -5312,7 +4722,6 @@
   {
     "Country": "Japan",
     "Year": 2000,
-    "Count": "6200[5100â€“7200]",
     "Count_median": 6200,
     "Count_min": 5100,
     "Count_max": 7200,
@@ -5321,7 +4730,6 @@
   {
     "Country": "Jordan",
     "Year": 2000,
-    "Count": "100[100â€“200]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 200,
@@ -5330,7 +4738,6 @@
   {
     "Country": "Kazakhstan",
     "Year": 2000,
-    "Count": "1100[1100â€“1200]",
     "Count_median": 1100,
     "Count_min": 1100,
     "Count_max": 1200,
@@ -5339,7 +4746,6 @@
   {
     "Country": "Kenya",
     "Year": 2000,
-    "Count": "1700000[1400000â€“2000000]",
     "Count_median": 1700000,
     "Count_min": 1400000,
     "Count_max": 2000000,
@@ -5348,7 +4754,6 @@
   {
     "Country": "Kuwait",
     "Year": 2000,
-    "Count": "200[200â€“200]",
     "Count_median": 200,
     "Count_min": 200,
     "Count_max": 200,
@@ -5357,7 +4762,6 @@
   {
     "Country": "Kyrgyzstan",
     "Year": 2000,
-    "Count": "710[580â€“840]",
     "Count_median": 710,
     "Count_min": 580,
     "Count_max": 840,
@@ -5366,7 +4770,6 @@
   {
     "Country": "Lao People's Democratic Republic",
     "Year": 2000,
-    "Count": "2200[2000â€“2400]",
     "Count_median": 2200,
     "Count_min": 2000,
     "Count_max": 2400,
@@ -5375,7 +4778,6 @@
   {
     "Country": "Latvia",
     "Year": 2000,
-    "Count": "2300[2200â€“2500]",
     "Count_median": 2300,
     "Count_min": 2200,
     "Count_max": 2500,
@@ -5384,7 +4786,6 @@
   {
     "Country": "Lebanon",
     "Year": 2000,
-    "Count": "910[790â€“1000]",
     "Count_median": 910,
     "Count_min": 790,
     "Count_max": 1000,
@@ -5393,7 +4794,6 @@
   {
     "Country": "Lesotho",
     "Year": 2000,
-    "Count": "260000[240000â€“290000]",
     "Count_median": 260000,
     "Count_min": 240000,
     "Count_max": 290000,
@@ -5402,7 +4802,6 @@
   {
     "Country": "Liberia",
     "Year": 2000,
-    "Count": "43000[41000â€“45000]",
     "Count_median": 43000,
     "Count_min": 41000,
     "Count_max": 45000,
@@ -5411,7 +4810,6 @@
   {
     "Country": "Libya",
     "Year": 2000,
-    "Count": "950[870â€“1000]",
     "Count_median": 950,
     "Count_min": 870,
     "Count_max": 1000,
@@ -5420,7 +4818,6 @@
   {
     "Country": "Lithuania",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5429,7 +4826,6 @@
   {
     "Country": "Luxembourg",
     "Year": 2000,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -5438,7 +4834,6 @@
   {
     "Country": "Madagascar",
     "Year": 2000,
-    "Count": "13000[7900â€“20000]",
     "Count_median": 13000,
     "Count_min": 7900,
     "Count_max": 20000,
@@ -5447,7 +4842,6 @@
   {
     "Country": "Malawi",
     "Year": 2000,
-    "Count": "810000[740000â€“860000]",
     "Count_median": 810000,
     "Count_min": 740000,
     "Count_max": 860000,
@@ -5456,7 +4850,6 @@
   {
     "Country": "Malaysia",
     "Year": 2000,
-    "Count": "55000[48000â€“65000]",
     "Count_median": 55000,
     "Count_min": 48000,
     "Count_max": 65000,
@@ -5465,7 +4858,6 @@
   {
     "Country": "Maldives",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5474,7 +4866,6 @@
   {
     "Country": "Mali",
     "Year": 2000,
-    "Count": "110000[91000â€“130000]",
     "Count_median": 110000,
     "Count_min": 91000,
     "Count_max": 130000,
@@ -5483,7 +4874,6 @@
   {
     "Country": "Malta",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5492,7 +4882,6 @@
   {
     "Country": "Mauritania",
     "Year": 2000,
-    "Count": "5500[4500â€“6500]",
     "Count_median": 5500,
     "Count_min": 4500,
     "Count_max": 6500,
@@ -5501,7 +4890,6 @@
   {
     "Country": "Mauritius",
     "Year": 2000,
-    "Count": "3200[1500â€“6000]",
     "Count_median": 3200,
     "Count_min": 1500,
     "Count_max": 6000,
@@ -5510,7 +4898,6 @@
   {
     "Country": "Mexico",
     "Year": 2000,
-    "Count": "130000[94000â€“190000]",
     "Count_median": 130000,
     "Count_min": 94000,
     "Count_max": 190000,
@@ -5519,7 +4906,6 @@
   {
     "Country": "Mongolia",
     "Year": 2000,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -5528,7 +4914,6 @@
   {
     "Country": "Montenegro",
     "Year": 2000,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -5537,7 +4922,6 @@
   {
     "Country": "Morocco",
     "Year": 2000,
-    "Count": "9700[7800â€“13000]",
     "Count_median": 9700,
     "Count_min": 7800,
     "Count_max": 13000,
@@ -5546,7 +4930,6 @@
   {
     "Country": "Mozambique",
     "Year": 2000,
-    "Count": "840000[670000â€“1000000]",
     "Count_median": 840000,
     "Count_min": 670000,
     "Count_max": 1000000,
@@ -5555,7 +4938,6 @@
   {
     "Country": "Myanmar",
     "Year": 2000,
-    "Count": "150000[130000â€“170000]",
     "Count_median": 150000,
     "Count_min": 130000,
     "Count_max": 170000,
@@ -5564,7 +4946,6 @@
   {
     "Country": "Namibia",
     "Year": 2000,
-    "Count": "140000[130000â€“160000]",
     "Count_median": 140000,
     "Count_min": 130000,
     "Count_max": 160000,
@@ -5573,7 +4954,6 @@
   {
     "Country": "Nepal",
     "Year": 2000,
-    "Count": "16000[14000â€“17000]",
     "Count_median": 16000,
     "Count_min": 14000,
     "Count_max": 17000,
@@ -5582,7 +4962,6 @@
   {
     "Country": "Netherlands",
     "Year": 2000,
-    "Count": "11000[11000â€“12000]",
     "Count_median": 11000,
     "Count_min": 11000,
     "Count_max": 12000,
@@ -5591,7 +4970,6 @@
   {
     "Country": "New Zealand",
     "Year": 2000,
-    "Count": "1300[1100â€“1500]",
     "Count_median": 1300,
     "Count_min": 1100,
     "Count_max": 1500,
@@ -5600,7 +4978,6 @@
   {
     "Country": "Nicaragua",
     "Year": 2000,
-    "Count": "3600[2100â€“5300]",
     "Count_median": 3600,
     "Count_min": 2100,
     "Count_max": 5300,
@@ -5609,7 +4986,6 @@
   {
     "Country": "Niger",
     "Year": 2000,
-    "Count": "37000[31000â€“44000]",
     "Count_median": 37000,
     "Count_min": 31000,
     "Count_max": 44000,
@@ -5618,7 +4994,6 @@
   {
     "Country": "Nigeria",
     "Year": 2000,
-    "Count": "1300000[940000â€“1700000]",
     "Count_median": 1300000,
     "Count_min": 940000,
     "Count_max": 1700000,
@@ -5627,7 +5002,6 @@
   {
     "Country": "Norway",
     "Year": 2000,
-    "Count": "1900[1700â€“2100]",
     "Count_median": 1900,
     "Count_min": 1700,
     "Count_max": 2100,
@@ -5636,7 +5010,6 @@
   {
     "Country": "Oman",
     "Year": 2000,
-    "Count": "1300[1100â€“1400]",
     "Count_median": 1300,
     "Count_min": 1100,
     "Count_max": 1400,
@@ -5645,7 +5018,6 @@
   {
     "Country": "Pakistan",
     "Year": 2000,
-    "Count": "500[500â€“520]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 520,
@@ -5654,7 +5026,6 @@
   {
     "Country": "Panama",
     "Year": 2000,
-    "Count": "11000[10000â€“12000]",
     "Count_median": 11000,
     "Count_min": 10000,
     "Count_max": 12000,
@@ -5663,7 +5034,6 @@
   {
     "Country": "Papua New Guinea",
     "Year": 2000,
-    "Count": "20000[17000â€“25000]",
     "Count_median": 20000,
     "Count_min": 17000,
     "Count_max": 25000,
@@ -5672,7 +5042,6 @@
   {
     "Country": "Paraguay",
     "Year": 2000,
-    "Count": "14000[7100â€“21000]",
     "Count_median": 14000,
     "Count_min": 7100,
     "Count_max": 21000,
@@ -5681,7 +5050,6 @@
   {
     "Country": "Peru",
     "Year": 2000,
-    "Count": "71000[56000â€“94000]",
     "Count_median": 71000,
     "Count_min": 56000,
     "Count_max": 94000,
@@ -5690,7 +5058,6 @@
   {
     "Country": "Philippines",
     "Year": 2000,
-    "Count": "1000[910â€“1200]",
     "Count_median": 1000,
     "Count_min": 910,
     "Count_max": 1200,
@@ -5699,7 +5066,6 @@
   {
     "Country": "Poland",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5708,7 +5074,6 @@
   {
     "Country": "Portugal",
     "Year": 2000,
-    "Count": "32000[27000â€“37000]",
     "Count_median": 32000,
     "Count_min": 27000,
     "Count_max": 37000,
@@ -5717,7 +5082,6 @@
   {
     "Country": "Qatar",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5726,7 +5090,6 @@
   {
     "Country": "Republic of Korea",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5735,7 +5098,6 @@
   {
     "Country": "Republic of Moldova",
     "Year": 2000,
-    "Count": "10000[8000â€“13000]",
     "Count_median": 10000,
     "Count_min": 8000,
     "Count_max": 13000,
@@ -5744,7 +5106,6 @@
   {
     "Country": "Republic of North Macedonia",
     "Year": 2000,
-    "Count": "100[100â€“100]",
     "Count_median": 100,
     "Count_min": 100,
     "Count_max": 100,
@@ -5753,7 +5114,6 @@
   {
     "Country": "Romania",
     "Year": 2000,
-    "Count": "7500[6900â€“8100]",
     "Count_median": 7500,
     "Count_min": 6900,
     "Count_max": 8100,
@@ -5762,7 +5122,6 @@
   {
     "Country": "Russian Federation",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5771,7 +5130,6 @@
   {
     "Country": "Rwanda",
     "Year": 2000,
-    "Count": "240000[220000â€“280000]",
     "Count_median": 240000,
     "Count_min": 220000,
     "Count_max": 280000,
@@ -5780,7 +5138,6 @@
   {
     "Country": "Saudi Arabia",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5789,7 +5146,6 @@
   {
     "Country": "Senegal",
     "Year": 2000,
-    "Count": "33000[29000â€“39000]",
     "Count_median": 33000,
     "Count_min": 29000,
     "Count_max": 39000,
@@ -5798,7 +5154,6 @@
   {
     "Country": "Serbia",
     "Year": 2000,
-    "Count": "1000[660â€“1400]",
     "Count_median": 1000,
     "Count_min": 660,
     "Count_max": 1400,
@@ -5807,7 +5162,6 @@
   {
     "Country": "Sierra Leone",
     "Year": 2000,
-    "Count": "40000[31000â€“50000]",
     "Count_median": 40000,
     "Count_min": 31000,
     "Count_max": 50000,
@@ -5816,7 +5170,6 @@
   {
     "Country": "Singapore",
     "Year": 2000,
-    "Count": "2900[2600â€“3300]",
     "Count_median": 2900,
     "Count_min": 2600,
     "Count_max": 3300,
@@ -5825,7 +5178,6 @@
   {
     "Country": "Slovakia",
     "Year": 2000,
-    "Count": "200[100â€“200]",
     "Count_median": 200,
     "Count_min": 100,
     "Count_max": 200,
@@ -5834,7 +5186,6 @@
   {
     "Country": "Slovenia",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5843,7 +5194,6 @@
   {
     "Country": "Somalia",
     "Year": 2000,
-    "Count": "16000[14000â€“20000]",
     "Count_median": 16000,
     "Count_min": 14000,
     "Count_max": 20000,
@@ -5852,7 +5202,6 @@
   {
     "Country": "South Africa",
     "Year": 2000,
-    "Count": "3300000[2900000â€“3700000]",
     "Count_median": 3300000,
     "Count_min": 2900000,
     "Count_max": 3700000,
@@ -5861,7 +5210,6 @@
   {
     "Country": "South Sudan",
     "Year": 2000,
-    "Count": "90000[56000â€“120000]",
     "Count_median": 90000,
     "Count_min": 56000,
     "Count_max": 120000,
@@ -5870,7 +5218,6 @@
   {
     "Country": "Spain",
     "Year": 2000,
-    "Count": "92000[78000â€“110000]",
     "Count_median": 92000,
     "Count_min": 78000,
     "Count_max": 110000,
@@ -5879,7 +5226,6 @@
   {
     "Country": "Sri Lanka",
     "Year": 2000,
-    "Count": "2200[1900â€“2400]",
     "Count_median": 2200,
     "Count_min": 1900,
     "Count_max": 2400,
@@ -5888,7 +5234,6 @@
   {
     "Country": "Sudan",
     "Year": 2000,
-    "Count": "15000[7500â€“29000]",
     "Count_median": 15000,
     "Count_min": 7500,
     "Count_max": 29000,
@@ -5897,7 +5242,6 @@
   {
     "Country": "Suriname",
     "Year": 2000,
-    "Count": "3100[2300â€“4400]",
     "Count_median": 3100,
     "Count_min": 2300,
     "Count_max": 4400,
@@ -5906,7 +5250,6 @@
   {
     "Country": "Sweden",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5915,7 +5258,6 @@
   {
     "Country": "Switzerland",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5924,7 +5266,6 @@
   {
     "Country": "Syrian Arab Republic",
     "Year": 2000,
-    "Count": "500[500â€“500]",
     "Count_median": 500,
     "Count_min": 500,
     "Count_max": 500,
@@ -5933,7 +5274,6 @@
   {
     "Country": "Tajikistan",
     "Year": 2000,
-    "Count": "1400[780â€“2700]",
     "Count_median": 1400,
     "Count_min": 780,
     "Count_max": 2700,
@@ -5942,7 +5282,6 @@
   {
     "Country": "Thailand",
     "Year": 2000,
-    "Count": "740000[610000â€“890000]",
     "Count_median": 740000,
     "Count_min": 610000,
     "Count_max": 890000,
@@ -5951,7 +5290,6 @@
   {
     "Country": "Timor-Leste",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5960,7 +5298,6 @@
   {
     "Country": "Togo",
     "Year": 2000,
-    "Count": "94000[87000â€“100000]",
     "Count_median": 94000,
     "Count_min": 87000,
     "Count_max": 100000,
@@ -5969,7 +5306,6 @@
   {
     "Country": "Trinidad and Tobago",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5978,7 +5314,6 @@
   {
     "Country": "Tunisia",
     "Year": 2000,
-    "Count": "500[200â€“710]",
     "Count_median": 500,
     "Count_min": 200,
     "Count_max": 710,
@@ -5987,7 +5322,6 @@
   {
     "Country": "Turkey",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -5996,7 +5330,6 @@
   {
     "Country": "Turkmenistan",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -6005,7 +5338,6 @@
   {
     "Country": "Uganda",
     "Year": 2000,
-    "Count": "1000000[930000â€“1100000]",
     "Count_median": 1000000,
     "Count_min": 930000,
     "Count_max": 1100000,
@@ -6014,7 +5346,6 @@
   {
     "Country": "Ukraine",
     "Year": 2000,
-    "Count": "170000[150000â€“180000]",
     "Count_median": 170000,
     "Count_min": 150000,
     "Count_max": 180000,
@@ -6023,7 +5354,6 @@
   {
     "Country": "United Arab Emirates",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -6032,7 +5362,6 @@
   {
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -6041,7 +5370,6 @@
   {
     "Country": "United Republic of Tanzania",
     "Year": 2000,
-    "Count": "1100000[1000000â€“1200000]",
     "Count_median": 1100000,
     "Count_min": 1000000,
     "Count_max": 1200000,
@@ -6050,7 +5378,6 @@
   {
     "Country": "United States of America",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -6059,7 +5386,6 @@
   {
     "Country": "Uruguay",
     "Year": 2000,
-    "Count": "6000[4200â€“12000]",
     "Count_median": 6000,
     "Count_min": 4200,
     "Count_max": 12000,
@@ -6068,7 +5394,6 @@
   {
     "Country": "Uzbekistan",
     "Year": 2000,
-    "Count": "14000[13000â€“16000]",
     "Count_median": 14000,
     "Count_min": 13000,
     "Count_max": 16000,
@@ -6077,7 +5402,6 @@
   {
     "Country": "Venezuela (Bolivarian Republic of)",
     "Year": 2000,
-    "Count": "na",
     "Count_median": null,
     "Count_min": null,
     "Count_max": null,
@@ -6086,7 +5410,6 @@
   {
     "Country": "Viet Nam",
     "Year": 2000,
-    "Count": "120000[110000â€“130000]",
     "Count_median": 120000,
     "Count_min": 110000,
     "Count_max": 130000,
@@ -6095,7 +5418,6 @@
   {
     "Country": "Yemen",
     "Year": 2000,
-    "Count": "1100[680â€“2500]",
     "Count_median": 1100,
     "Count_min": 680,
     "Count_max": 2500,
@@ -6104,7 +5426,6 @@
   {
     "Country": "Zambia",
     "Year": 2000,
-    "Count": "890000[800000â€“1000000]",
     "Count_median": 890000,
     "Count_min": 800000,
     "Count_max": 1000000,
@@ -6113,7 +5434,6 @@
   {
     "Country": "Zimbabwe",
     "Year": 2000,
-    "Count": "1600000[1400000â€“1900000]",
     "Count_median": 1600000,
     "Count_min": 1400000,
     "Count_max": 1900000,
