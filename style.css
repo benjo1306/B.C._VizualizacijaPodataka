@@ -14,15 +14,19 @@ body {
 #charts {
   display: flex;
   flex-direction: row;
-  order: 2;
+  order: 3;
 }
 
 #barchart{
   order: 1;
 }
 
-#piechart {
+#barchart{
   order: 2;
+}
+
+#piechart {
+  order: 3;
 }
 
 .country {

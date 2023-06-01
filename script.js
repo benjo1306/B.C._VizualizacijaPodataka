@@ -73,22 +73,27 @@ var xAxisLabel = svg.append("text")
     .attr("x", width / 1.1 - height / 2)
     .attr("y", height - 70)
     .style("text-anchor", "middle")
-    .text("HIV rate");
+    .style("fill", "red") 
+    .text("HIV DEATH RATE");
 
 
-function updateBarChart(countryName, hivData) {
-    const filteredData = hivData.filter(item => item.Country === countryName && item.Count_median !== "");
-    const years = filteredData.map(item => item.Year);
-    const deathHivCounts = filteredData.map(item => parseInt(item.Count_median));
+
+function updateBarChart(Country, hivData, hivDataLiving) {
+    const filteredDataDeaths = hivData.filter(item => item.Country === Country && item.Count_median !== "");
+    const yearsDeath = filteredDataDeaths.map(item => item.Year);
+    const deathHivCounts = filteredDataDeaths.map(item => parseInt(item.Count_median));
     const totalDeaths = d3.sum(deathHivCounts);
 
-
+    const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
+    const yearsLiving = filteredDataLiving.map(item => item.Year);
+    const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
+    const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
 
     const barChartHeight = 500;
     const barChartWidth = 500;
 
 
-    const margin = { top: 20, right: 20, bottom: 30, left: 120 };
+    const margin = { top: 20, right: 80, bottom: 30, left: 150 };
 
 
     const width = barChartWidth - margin.left - margin.right;
@@ -96,7 +101,7 @@ function updateBarChart(countryName, hivData) {
 
 
     const xScale = d3.scaleBand()
-        .domain(years)
+        .domain(yearsDeath)
         .range([0, width])
         .padding(0.1);
 
@@ -112,10 +117,10 @@ function updateBarChart(countryName, hivData) {
         .attr("height", barChartHeight)
         .append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
-
+    
 
     barChart.selectAll(".bar")
-        .data(filteredData)
+        .data(filteredDataDeaths)
         .enter()
         .append("rect")
         .attr("class", "bar")
@@ -134,6 +139,58 @@ function updateBarChart(countryName, hivData) {
     barChart.append("g")
         .call(d3.axisLeft(yScale));
 
+    
+const barChart2 = d3.select("#barchart2")
+    .html("")
+    .append("svg")
+    .attr("width", barChartWidth)
+    .attr("height", barChartHeight)
+    .append("g")
+    .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+const xScale2 = d3.scaleBand()
+    .domain(yearsLiving)
+    .range([0, width])
+    .padding(0.1);
+
+const yScale2 = d3.scaleLinear()
+    .domain([0, d3.max(livingHivCounts) * 1.1])
+    .range([height, 0]);
+
+barChart2.selectAll(".bar")
+    .data(filteredDataLiving)
+    .enter()
+    .append("rect")
+    .attr("class", "bar")
+    .attr("x", d => xScale2(d.Year))
+    .attr("y", d => yScale2(parseInt(d.Count_median)))
+    .attr("width", xScale2.bandwidth())
+    .attr("height", d => height - yScale2(parseInt(d.Count_median)))
+    .style("fill", "lightblue");
+
+barChart2.append("g")
+    .attr("transform", `translate(0, ${height})`)
+    .call(d3.axisBottom(xScale2));
+
+barChart2.append("g")
+    .call(d3.axisLeft(yScale2));
+
+barChart2.append("text")
+    .attr("class", "x-axis-label")
+    .attr("x", width - 30)
+    .attr("y", 480)
+    .style("text-anchor", "middle")
+    .text("Year");
+
+barChart2.append("text")
+    .attr("class", "y-axis-label")
+    .attr("transform", "rotate(-90)")
+    .attr("x", -50)
+    .attr("y", 0 - margin.left + 50)
+    .attr("dy", "1em")
+    .style("text-anchor", "middle")
+    .text("People living with HIV");
+
     barChart.append("text")
         .attr("class", "x-axis-label")
         .attr("x", width - 30)
@@ -148,7 +205,7 @@ function updateBarChart(countryName, hivData) {
         .attr("y", 0 - margin.left + 50)
         .attr("dy", "1em")
         .style("text-anchor", "middle")
-        .text("Hiv Count");
+        .text("Hiv death count");
 
     if (totalDeaths === 0) {
         barChart.html("")
@@ -160,16 +217,22 @@ function updateBarChart(countryName, hivData) {
 
 Promise.all([
     fetch('newWorldTopo.json').then(response => response.json()),
-    fetch('number_of_deaths_from_hiv.json').then(response => response.json())
+    fetch('number_of_deaths_from_hiv.json').then(response => response.json()),
+    fetch('number_of_people_living_with_HIV.json').then(response => response.json())
     
-]).then(([topoData, hivData]) => {
+]).then(([topoData, hivDataDeaths, hivDataLiving]) => {
 
     var countries = topojson.feature(topoData, topoData.objects.newWorld);
 
-    const filteredData = hivData.filter(data => data.Count_median !== "");
+    const filteredDataDeaths = hivDataDeaths.filter(data => data.Count_median !== "");
+
+    const filteredDataLiving = hivDataLiving.filter(data => data.Count_median !== "");
+    const livingHivCounts = filteredDataLiving.map(data => parseInt(data.Count_median));
+
+
 
     const countryDeaths = {};
-    filteredData.forEach(data => {
+    filteredDataDeaths.forEach(data => {
         const country = data.Country;
         const deaths = data.Count_median;
         if (countryDeaths[country]) {
@@ -186,10 +249,12 @@ Promise.all([
         .attr("class", "country")
         .attr("d", path)
         .on("mouseover", function (event, d) {
-            const countryName = d.properties.name;
-            const deathCount = countryDeaths[countryName] || "No data";
-            const tooltipContent = `Country: ${countryName}<br>Total deaths: ${deathCount}`;
-        
+            const Country = d.properties.name;
+            const deathCount = countryDeaths[Country] || "No data";
+            const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
+            const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
+            const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
+            const tooltipContent = `Country: ${Country}<br>Total deaths: ${deathCount}<br>Avg infection: ${averageLivingHivCount !== "No data" ? d3.format(".2s")(averageLivingHivCount) : averageLivingHivCount}`;        
             tooltip
                 .html(tooltipContent)
                 .style("left", `${event.pageX + 10}px`)
@@ -197,14 +262,14 @@ Promise.all([
                 .style("opacity", 0.9);
         })
         .style("fill", function (d) {
-            const countryName = d.properties.name;
-            const deathCount = countryDeaths[countryName] || 0;
-            return countryDeaths[countryName] ? scaleColor(deathCount) : "lightgray";
+            const Country = d.properties.name;
+            const deathCount = countryDeaths[Country] || 0;
+            return countryDeaths[Country] ? scaleColor(deathCount) : "lightgray";
         })
 
         .on("click", function (event, d) {
-            const countryName = d.properties.name;
-            updateBarChart(countryName, hivData);
-            // updatePieChart(countryName, hivData);
+            const Country = d.properties.name;
+            updateBarChart(Country, hivDataDeaths, hivDataLiving);
+            // updatePieChart(Country, hivDataDeaths);
         })
 });
