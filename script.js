@@ -27,7 +27,7 @@ var tooltip = d3.select("#content").append("div")
 
 var scaleColor = d3.scaleLinear()
     .domain([0, 300000])
-    .range(["white", "blue"]);
+    .range(["lightgreen", "green"]);
 
 var hivDeaths = svg.append("g")
     .attr("width", scaleWidth)
@@ -73,7 +73,7 @@ var xAxisLabel = svg.append("text")
     .attr("x", width / 1.1 - height / 2)
     .attr("y", height - 70)
     .style("text-anchor", "middle")
-    .style("fill", "red") 
+    .style("fill", "white") 
     .text("HIV DEATH RATE");
 
 
@@ -267,12 +267,11 @@ Promise.all([
         .style("fill", function (d) {
             const Country = d.properties.name;
             const deathCount = countryDeaths[Country] || 0;
-            return countryDeaths[Country] ? scaleColor(deathCount) : "lightgray";
+            return countryDeaths[Country] ? scaleColor(deathCount) : "white";
         })
 
         .on("click", function (event, d) {
             const Country = d.properties.name;
             updateBarChart(Country, hivDataDeaths, hivDataLiving);
-            // updatePieChart(Country, hivDataDeaths);
         })
 });
