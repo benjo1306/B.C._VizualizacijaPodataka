@@ -139,6 +139,26 @@ function updateBarChart(Country, hivData, hivDataLiving) {
     barChart.append("g")
         .call(d3.axisLeft(yScale));
 
+        barChart.append("text")
+        .attr("class", "x-axis-label")
+        .attr("x", width - 30)
+        .attr("y", 480)
+        .style("text-anchor", "middle")
+        .text("Year");
+
+    barChart.append("text")
+        .attr("class", "y-axis-label")
+        .attr("transform", "rotate(-90)")
+        .attr("x", -50)
+        .attr("y", 0 - margin.left + 50)
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Hiv death count");
+
+    if (totalDeaths === 0) {
+        barChart.html("")
+    }
+
     
 const barChart2 = d3.select("#barchart2")
     .html("")
@@ -191,26 +211,9 @@ barChart2.append("text")
     .style("text-anchor", "middle")
     .text("People living with HIV");
 
-    barChart.append("text")
-        .attr("class", "x-axis-label")
-        .attr("x", width - 30)
-        .attr("y", 480)
-        .style("text-anchor", "middle")
-        .text("Year");
-
-    barChart.append("text")
-        .attr("class", "y-axis-label")
-        .attr("transform", "rotate(-90)")
-        .attr("x", -50)
-        .attr("y", 0 - margin.left + 50)
-        .attr("dy", "1em")
-        .style("text-anchor", "middle")
-        .text("Hiv death count");
-
-    if (totalDeaths === 0) {
-        barChart.html("")
-
-    }
+    if (filteredDataLiving.length === 0) {
+        barChart2.html("");
+      }
 
 }
 
