@@ -51,11 +51,11 @@ const legendScale = d3.scaleLinear()
     .range([0, scaleWidth]);
 
 const legendAxis = d3.axisBottom(legendScale)
-    .ticks(5)
-    .tickSize(10)
+    .ticks(7)
+    .tickSize(20)
     .tickFormat((d) => {
         if (d === 300000) {
-            return "300k<";
+            return "300k";
         } else {
             return d3.format("0.0s")(d);
         }
@@ -93,7 +93,7 @@ function updateBarChart(Country, hivData, hivDataLiving) {
     const barChartWidth = 500;
 
 
-    const margin = { top: 20, right: 80, bottom: 30, left: 150 };
+    const margin = { top: 30, right: 80, bottom: 30, left: 150 };
 
 
     const width = barChartWidth - margin.left - margin.right;
