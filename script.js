@@ -25,58 +25,53 @@ function zoomed(event) {
 var tooltip = d3.select("#content").append("div")
     .attr("class", "tooltip");
 
-var scaleColor = d3.scaleLinear()
+    var scaleColor = d3.scaleLinear()
     .domain([0, 300000])
-    .range(["lightgreen", "green"]);
-
-var hivDeaths = svg.append("g")
-    .attr("width", scaleWidth)
-    .attr("height", scaleHeight)
-    .attr("transform", `translate(${width / 1.5 - height / 2}, ${height - 100})`);
-
-var barWidth = scaleWidth / 10;
-
-hivDeaths.selectAll(".scale")
-    .data(d3.range(10))
+    .range(["lightgreen", "green"])
+    .interpolate(d3.interpolateHcl);
+  
+  var legendData = [0, 60000, 120000, 180000, 240000, 300000];
+  var legendHeight = scaleHeight / 5;
+  var legendSpacing = 10; // Dodatni razmak između linija
+  
+  var legend = svg.append("g")
+    .attr("class", "legend")
+    .attr("transform", `translate(${width / 2}, ${height - 0 - (legendData.length * (legendHeight + legendSpacing))})`);
+  
+  legend.selectAll(".legend-rect")
+    .data(legendData)
     .enter()
     .append("rect")
-    .attr("x", function (d, i) { return i * barWidth; })
-    .attr("y", 0)
-    .attr("width", barWidth)
-    .attr("height", scaleHeight)
-    .attr("fill", function (d) { return scaleColor(d * 50000); });
-
-const legendScale = d3.scaleLinear()
-    .domain([0, 300000])
-    .range([0, scaleWidth]);
-
-const legendAxis = d3.axisBottom(legendScale)
-    .ticks(4)
-    .tickSize(18)
-    .tickFormat((d) => {
-        if (d === 300000) {
-            return "300k";
-        } else {
-            return d3.format("0.0s")(d);
-        }
-    });
-
-var legend = svg.append("g")
-    .attr("class", "legend")
-    .attr("transform", `translate(${width / 1.5 - height / 2}, ${height - 70})`);
-
-
-
-legend.call(legendAxis);
-
-var xAxisLabel = svg.append("text")
-    .attr("x", width / 1.4 - height / 2)
-    .attr("y", height - 105)
+    .attr("class", "legend-rect")
+    .attr("x", 0)
+    .attr("y", function(d, i) { return i * (legendHeight + legendSpacing); })
+    .attr("width", scaleWidth)
+    .attr("height", legendHeight)
+    .style("fill", function(d) { return scaleColor(d); });
+  
+  legend.selectAll(".legend-label")
+    .data(legendData)
+    .enter()
+    .append("text")
+    .attr("class", "legend-label")
+    .attr("x", scaleWidth + 10)
+    .attr("y", function(d, i) { return (i + 0.5) * (legendHeight + legendSpacing); })
+    .style("text-anchor", "start")
+    .style("alignment-baseline", "middle")
+    .style("fill", "white")
+    .text(function(d) { return d; });
+  
+  var legendTitle = legend.append("text")
+    .attr("class", "legend-title")
+    .attr("x", scaleWidth / 2)
+    .attr("y", -30)
     .style("text-anchor", "middle")
-    .style("fill", "black") 
-    .text("HIV DEATH RATE");
-
-
+    .style("fill", "white")
+    .text("HIV DEATH COUNT");
+  
+  
+  
+    
 
 function updateBarChart(Country, hivData, hivDataLiving) {
     const filteredDataDeaths = hivData.filter(item => item.Country === Country && item.Count_median !== "");
@@ -274,4 +269,6 @@ Promise.all([
             const Country = d.properties.name;
             updateBarChart(Country, hivDataDeaths, hivDataLiving);
         })
+
+
 });
