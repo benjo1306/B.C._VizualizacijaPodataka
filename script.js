@@ -51,8 +51,8 @@ const legendScale = d3.scaleLinear()
     .range([0, scaleWidth]);
 
 const legendAxis = d3.axisBottom(legendScale)
-    .ticks(7)
-    .tickSize(20)
+    .ticks(4)
+    .tickSize(18)
     .tickFormat((d) => {
         if (d === 300000) {
             return "300k";
@@ -70,10 +70,10 @@ var legend = svg.append("g")
 legend.call(legendAxis);
 
 var xAxisLabel = svg.append("text")
-    .attr("x", width / 1.1 - height / 2)
-    .attr("y", height - 70)
+    .attr("x", width / 1.4 - height / 2)
+    .attr("y", height - 105)
     .style("text-anchor", "middle")
-    .style("fill", "white") 
+    .style("fill", "black") 
     .text("HIV DEATH RATE");
 
 
@@ -93,7 +93,7 @@ function updateBarChart(Country, hivData, hivDataLiving) {
     const barChartWidth = 500;
 
 
-    const margin = { top: 30, right: 80, bottom: 30, left: 150 };
+    const margin = { top: 20, right: 20, bottom: 35, left: 135 };
 
 
     const width = barChartWidth - margin.left - margin.right;
@@ -209,7 +209,7 @@ barChart2.append("text")
     .attr("y", 0 - margin.left + 50)
     .attr("dy", "1em")
     .style("text-anchor", "middle")
-    .text("People living with HIV");
+    .text("Living with HIV");
 
     if (filteredDataLiving.length === 0) {
         barChart2.html("");
