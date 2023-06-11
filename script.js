@@ -123,7 +123,7 @@ function updateBarChart(Country, hivData, hivDataLiving) {
         .attr("y", d => yScale(parseInt(d.Count_median)))
         .attr("width", xScale.bandwidth())
         .attr("height", d => height - yScale(parseInt(d.Count_median)))
-        .style("fill", "darkblue");
+        .style("fill", "red");
 
 
     barChart.append("g")
@@ -181,7 +181,7 @@ barChart2.selectAll(".bar")
     .attr("y", d => yScale2(parseInt(d.Count_median)))
     .attr("width", xScale2.bandwidth())
     .attr("height", d => height - yScale2(parseInt(d.Count_median)))
-    .style("fill", "lightblue");
+    .style("fill", "orange");
 
 barChart2.append("g")
     .attr("transform", `translate(0, ${height})`)
