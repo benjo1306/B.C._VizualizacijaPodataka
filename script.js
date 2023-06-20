@@ -4,7 +4,7 @@ var height = window.innerHeight - 40;
 var scaleWidth = 400;
 var scaleHeight = 30;
 
-var svg = d3.select("#content").append("svg").attr("width", width).attr("height", height)
+var svg = d3.select("#content").append("svg").attr("width", width).attr("height", height);
 
 var projection = d3.geoMercator().center([0, 40]).scale(220).translate([width / 2, height / 2]);
 
@@ -13,79 +13,86 @@ var path = d3.geoPath(projection);
 var g = svg.append("g");
 
 var zoom = d3.zoom()
-    .scaleExtent([1, 10])
-    .on("zoom", zoomed);
+  .scaleExtent([1, 10])
+  .on("zoom", zoomed);
+
 
 svg.call(zoom);
 
 function zoomed(event) {
-    g.attr("transform", event.transform);
+  g.attr("transform", event.transform);
 }
 
 var tooltip = d3.select("#content").append("div")
-    .attr("class", "tooltip");
+  .attr("class", "tooltip");
 
-    var scaleColor = d3.scaleLinear()
-    .domain([0, 300000])
-    .range(["lightgreen", "green"])
-    .interpolate(d3.interpolateHcl);
-  
-  var legendData = [0, 60000, 120000, 180000, 240000, 300000];
-  var legendHeight = scaleHeight / 5;
-  var legendSpacing = 10; // Dodatni razmak između linija
-  
-  var legend = svg.append("g")
-    .attr("class", "legend")
-    .attr("transform", `translate(${width / 2}, ${height - 0 - (legendData.length * (legendHeight + legendSpacing))})`);
-  
-  legend.selectAll(".legend-rect")
-    .data(legendData)
-    .enter()
-    .append("rect")
-    .attr("class", "legend-rect")
-    .attr("x", 0)
-    .attr("y", function(d, i) { return i * (legendHeight + legendSpacing); })
-    .attr("width", scaleWidth)
-    .attr("height", legendHeight)
-    .style("fill", function(d) { return scaleColor(d); });
-  
-  legend.selectAll(".legend-label")
-    .data(legendData)
-    .enter()
-    .append("text")
-    .attr("class", "legend-label")
-    .attr("x", scaleWidth + 10)
-    .attr("y", function(d, i) { return (i + 0.5) * (legendHeight + legendSpacing); })
-    .style("text-anchor", "start")
-    .style("alignment-baseline", "middle")
-    .style("fill", "white")
-    .text(function(d) { return d; });
-  
-  var legendTitle = legend.append("text")
-    .attr("class", "legend-title")
-    .attr("x", scaleWidth / 2)
-    .attr("y", -30)
-    .style("text-anchor", "middle")
-    .style("fill", "white")
-    .text("HIV DEATH COUNT");
-  
-  
-  
-    
+var scaleColor = d3.scaleLinear()
+  .domain([0, 300000])
+  .range(["lightgreen", "green"])
+  .interpolate(d3.interpolateHcl);
+
+var legendData = [60000, 120000, 180000, 240000, 300000];
+var legendHeight = 20;
+var legendWidth = 20;
+var legendSpacing = 10;
+
+
+var legend = svg.append("g")
+  .attr("class", "legend")
+  .attr("transform", `translate(50, ${height - (legendData.length * (legendHeight + legendSpacing))})`);
+
+legend.selectAll(".legend-square")
+  .data(legendData)
+  .enter()
+  .append("rect")
+  .attr("class", "legend-square")
+  .attr("x", 0)
+  .attr("y", function(d, i) {
+    return i * (legendHeight + legendSpacing);
+  })
+  .attr("width", legendHeight)
+  .attr("height", legendHeight)
+  .style("fill", function(d) {
+    return scaleColor(d);
+  });
+
+legend.selectAll(".legend-label")
+  .data(legendData)
+  .enter()
+  .append("text")
+  .attr("class", "legend-label")
+  .attr("x", legendHeight + 10)
+  .attr("y", function(d, i) {
+    return (i + 0.5) * (legendHeight + legendSpacing);
+  })
+  .style("text-anchor", "start")
+  .style("alignment-baseline", "middle")
+  .style("fill", "white")
+  .text(function(d) {
+    return d;
+  });
+
+var legendTitle = legend.append("text")
+  .attr("class", "legend-title")
+  .attr("x", scaleWidth / 7)
+  .attr("y", -26)
+  .style("text-anchor", "middle")
+  .style("fill", "white")
+  .text("HIV DEATH COUNT");
 
 function updateBarChart(Country, hivData, hivDataLiving) {
-    const filteredDataDeaths = hivData.filter(item => item.Country === Country && item.Count_median !== "");
-    const yearsDeath = filteredDataDeaths.map(item => item.Year);
-    const deathHivCounts = filteredDataDeaths.map(item => parseInt(item.Count_median));
-    const totalDeaths = d3.sum(deathHivCounts);
+  const filteredDataDeaths = hivData.filter(item => item.Country === Country && item.Count_median !== "");
+  const yearsDeath = filteredDataDeaths.map(item => item.Year);
+  const deathHivCounts = filteredDataDeaths.map(item => parseInt(item.Count_median));
+  const totalDeaths = d3.sum(deathHivCounts);
 
-    const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
-    const yearsLiving = filteredDataLiving.map(item => item.Year);
-    const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
-    const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
+  const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
+  const yearsLiving = filteredDataLiving.map(item => item.Year);
+  const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
+  const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
 
-    const barChartHeight = 500;
-    const barChartWidth = 500;
+  const barChartHeight = 500;
+  const barChartWidth = 500;
 
 
     const margin = { top: 20, right: 20, bottom: 35, left: 135 };
