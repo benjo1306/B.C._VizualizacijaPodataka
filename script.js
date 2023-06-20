@@ -10,6 +10,15 @@ var projection = d3.geoMercator().center([0, 40]).scale(220).translate([width / 
 
 var path = d3.geoPath(projection);
 
+var title = svg.append("text")
+  .attr("class", "map-title")
+  .attr("x", width / 2)
+  .attr("y", 30)
+  .attr("text-anchor", "middle")
+  .style("font-size", "30px")
+  .style("fill", "black") // Promijenite boju naslova ovdje
+  .text("Ljudi i HIV");
+
 var g = svg.append("g");
 
 var zoom = d3.zoom()
@@ -27,14 +36,14 @@ var tooltip = d3.select("#content").append("div")
   .attr("class", "tooltip");
 
 var scaleColor = d3.scaleLinear()
-  .domain([0, 300000])
-  .range(["lightgreen", "green"])
+  .domain([0.0001, 0.01])
+  .range(["lightgreen", "darkgreen"])
   .interpolate(d3.interpolateHcl);
 
-var legendData = [60000, 120000, 180000, 240000, 300000];
-var legendHeight = 20;
-var legendWidth = 20;
-var legendSpacing = 10;
+  var legendData = [0.001, 0.002, 0.004, 0.006, 0.008, 0.01];var legendHeight = 20;
+  var legendHeight = 20;
+  var legendWidth = 20;
+  var legendSpacing = 10;
 
 
 var legend = svg.append("g")
@@ -69,10 +78,10 @@ legend.selectAll(".legend-label")
   .style("alignment-baseline", "middle")
   .style("fill", "white")
   .text(function(d) {
-    return d;
+    return `${d * 100}%`;
   });
 
-var legendTitle = legend.append("text")
+  var legendTitle = legend.append("text")
   .attr("class", "legend-title")
   .attr("x", scaleWidth / 7)
   .attr("y", -26)
@@ -221,61 +230,68 @@ barChart2.append("text")
 
 
 Promise.all([
-    fetch('newWorldTopo.json').then(response => response.json()),
-    fetch('number_of_deaths_from_hiv.json').then(response => response.json()),
-    fetch('number_of_people_living_with_HIV.json').then(response => response.json())
+  fetch('newWorldTopo.json').then(response => response.json()),
+  fetch('number_of_deaths_from_hiv.json').then(response => response.json()),
+  fetch('number_of_people_living_with_HIV.json').then(response => response.json()),
+  fetch('population_table.json').then(response => response.json())
+]).then(([topoData, hivDataDeaths, hivDataLiving, populationTable]) => {
+
+  var countries = topojson.feature(topoData, topoData.objects.newWorld);
+  const filteredDataDeaths = hivDataDeaths.filter(data => data.Count_median !== "");
+  const filteredDataLiving = hivDataLiving.filter(data => data.Count_median !== "");
+  const livingHivCounts = filteredDataLiving.map(data => parseInt(data.Count_median));
+
+  const countryDeaths = {};
+  filteredDataDeaths.forEach(data => {
+    const country = data.Country;
+    const deaths = data.Count_median;
+    if (countryDeaths[country]) {
+      countryDeaths[country] += deaths;
+    } else {
+      countryDeaths[country] = deaths;
+    }
+  });
+
+  var populationData = {};
+  populationTable.forEach(data => {
+    const country = data.Country;
+    const population2010 = parseInt(data.pop2010);
+    const population2018 = parseInt(data.pop2018);
+    const populationMean = (population2010 + population2018) / 2;
+    populationData[country] = populationMean;
+  });
+
+  g.selectAll("path")
+    .data(countries.features)
+    .enter()
+    .append("path")
+    .attr("class", "country")
+    .attr("d", path)
+    .on("mouseover", function(event, d) {
+      const Country = d.properties.name;
+      const deathCount = countryDeaths[Country] || "No data";
+      const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
+      const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
+      const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
+      const populationMean = populationData[Country];
+      const deathPercentage = (deathCount / populationMean) * 100;
+      const tooltipContent = `Country: ${Country}<br>Total deaths: ${deathCount}<br>Percentage of Death: ${deathPercentage.toFixed(2)}%<br>Avg infection: ${averageLivingHivCount !== "No data" ? d3.format(".2s")(averageLivingHivCount) : averageLivingHivCount}`;
+      tooltip
+        .html(tooltipContent)
+        .style("left", `${event.pageX + 10}px`)
+        .style("top", `${event.pageY - 10}px`)
+        .style("opacity", 0.9);
+    })
+    .style("fill", function(d) {
+      const Country = d.properties.name;
+      const deathCount = countryDeaths[Country] || 0;
+      const populationMean = populationData[Country];
+      const deathPercentage = deathCount / populationMean;
+      return countryDeaths[Country] ? scaleColor(deathPercentage) : "white";
+    })
     
-]).then(([topoData, hivDataDeaths, hivDataLiving]) => {
-
-    var countries = topojson.feature(topoData, topoData.objects.newWorld);
-
-    const filteredDataDeaths = hivDataDeaths.filter(data => data.Count_median !== "");
-
-    const filteredDataLiving = hivDataLiving.filter(data => data.Count_median !== "");
-    const livingHivCounts = filteredDataLiving.map(data => parseInt(data.Count_median));
-
-
-
-    const countryDeaths = {};
-    filteredDataDeaths.forEach(data => {
-        const country = data.Country;
-        const deaths = data.Count_median;
-        if (countryDeaths[country]) {
-            countryDeaths[country] += deaths;
-        } else {
-            countryDeaths[country] = deaths;
-        }
+    .on("click", function(event, d) {
+      const Country = d.properties.name;
+      updateBarChart(Country, hivDataDeaths, hivDataLiving);
     });
-
-    g.selectAll("path")
-        .data(countries.features)
-        .enter()
-        .append("path")
-        .attr("class", "country")
-        .attr("d", path)
-        .on("mouseover", function (event, d) {
-            const Country = d.properties.name;
-            const deathCount = countryDeaths[Country] || "No data";
-            const filteredDataLiving = hivDataLiving.filter(item => item.Country === Country && item.Count_median !== "");
-            const livingHivCounts = filteredDataLiving.map(item => parseInt(item.Count_median));
-            const averageLivingHivCount = livingHivCounts.length > 0 ? d3.mean(livingHivCounts) : "No data";
-            const tooltipContent = `Country: ${Country}<br>Total deaths: ${deathCount}<br>Avg infection: ${averageLivingHivCount !== "No data" ? d3.format(".2s")(averageLivingHivCount) : averageLivingHivCount}`;        
-            tooltip
-                .html(tooltipContent)
-                .style("left", `${event.pageX + 10}px`)
-                .style("top", `${event.pageY - 10}px`)
-                .style("opacity", 0.9);
-        })
-        .style("fill", function (d) {
-            const Country = d.properties.name;
-            const deathCount = countryDeaths[Country] || 0;
-            return countryDeaths[Country] ? scaleColor(deathCount) : "white";
-        })
-
-        .on("click", function (event, d) {
-            const Country = d.properties.name;
-            updateBarChart(Country, hivDataDeaths, hivDataLiving);
-        })
-
-
 });
